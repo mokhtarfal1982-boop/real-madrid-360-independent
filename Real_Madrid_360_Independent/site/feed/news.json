@@ -1,0 +1,51 @@
+{
+  "schema": "rm360-news/1",
+  "updatedAt": "2026-10-17T10:13:00+03:00",
+  "items": [
+    {
+      "id": "2026-10-16-tebas",
+      "category": "official",
+      "title": "ريال مدريد يطالب رئيس رابطة الدوري خافيير تيباس بالاستقالة",
+      "summary": "صدر بيان النادي بعد منشور لتيباس شبّه فيه أساليب النادي الإعلامية بأساليب دعاية غوبلز، ووصف النادي التشبيه بأنه غير مقبول وخطير للغاية.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-16-10-2026",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-vini-appeal",
+      "category": "reliable",
+      "title": "رفض استئناف ريال مدريد وتثبيت إيقاف فينيسيوس 4 مباريات",
+      "summary": "رفضت لجنة الاستئناف في الاتحاد الإسباني الطعن، فيغيب فينيسيوس عن إشبيلية وبرشلونة وراسينغ وفالنسيا في الدوري، ويتجه النادي إلى المحكمة الإدارية للرياضة.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/real-madrid-appeal-rejected-vinicius-131015686.html",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-rm-team-news",
+      "category": "reliable",
+      "title": "أربعة مصابين وموقوف في ريال مدريد قبل مواجهة إشبيلية",
+      "summary": "يغيب ميليتاو ورودريغو وفيرلاند ميندي وراؤول أسينسيو للإصابة، إضافة إلى فينيسيوس الموقوف.",
+      "source": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/real-madrid-vs-sevilla-prediction-team-news-lineups_607030.html",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-sevilla-absences",
+      "category": "reliable",
+      "title": "إشبيلية يفتقد أربعة لاعبين قبل زيارة البرنابيو",
+      "summary": "يغيب ماركاو وجون غوريدي وميغيل سييرا للإصابة، وإيساك روميرو للإيقاف بعد طرده أمام ليفانتي.",
+      "source": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/real-madrid-vs-sevilla-prediction-team-news-lineups_607030.html",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-10-mourinho-presser",
+      "category": "reliable",
+      "title": "مورينيو يقاطع المؤتمر الصحفي بعد مباراة فياريال",
+      "summary": "قاطع المدرب المؤتمر الصحفي عقب الفوز على فياريال وسط جدل تحكيمي، وأعلن النادي دعمه لقراره.",
+      "source": "Goal",
+      "url": "https://www.goal.com/en-us/lists/real-madrid-completely-support-jose-mourinho-decision-boycott-villarreal-press-conference-refereeing-controversy/blt2dc4b219eacfbf55",
+      "date": "2026-10-10"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "real-madrid-360-independent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent static Arabic Real Madrid news platform; local first-party JSON feed",
+  "scripts": {
+    "data": "python3 build/compile_data.py dist",
+    "build": "npm run data && node build/build-static.js",
+    "preview": "python3 -m http.server 3000 --directory dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

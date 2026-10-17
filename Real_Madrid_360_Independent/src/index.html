@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ريال مدريد 360</title>
+<meta name="description" content="مباريات ريال مدريد ونتائجه وترتيبه في الدوري الإسباني ودوري أبطال أوروبا، والغيابات وآخر الأخبار بمصادرها، بتوقيت السعودية.">
+<meta name="theme-color" content="#07101F">
+<meta name="color-scheme" content="dark">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ريال مدريد 360">
+<meta property="og:title" content="ريال مدريد 360">
+<meta property="og:description" content="المباراة القادمة والنتائج والترتيب والغيابات وآخر الأخبار بمصادرها، بتوقيت السعودية.">
+
+<meta property="og:image" content="/og.png">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+<meta property="og:locale" content="ar_SA">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/og.png">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="ريال مدريد 360">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&amp;family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&amp;display=swap">
+<!--ASSETS-->
+</head>
+<body>
+<a class="skip" href="#main">تخطَّ إلى المحتوى</a>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="#/" aria-label="ريال مدريد 360، الصفحة الرئيسية">
+      <span class="mark" aria-hidden="true"><span>360</span></span>
+      <span class="brand-name">ريال مدريد <bdi class="num">360</bdi></span>
+    </a>
+    <nav class="nav-top" aria-label="الأقسام">
+      <a href="#/" data-route="home">الرئيسية</a>
+      <a href="#/matches" data-route="matches">المباريات</a>
+      <a href="#/news" data-route="news">الأخبار</a>
+      <a href="#/table" data-route="table">الترتيب</a>
+      <a href="#/team" data-route="team">الفريق</a>
+    </nav>
+    <p class="stamp" id="stamp"></p>
+  </div>
+</header>
+
+<div class="ticker" id="ticker" hidden>
+  <a class="ticker-label" href="#/news">آخر الأخبار</a>
+  <div class="ticker-viewport" id="ticker-viewport">
+    <div class="ticker-track" id="ticker-track"></div>
+  </div>
+</div>
+
+<main id="main" tabindex="-1">
+  <section class="view" id="view-home" data-view="home" aria-labelledby="h-home"></section>
+
+  <section class="view" id="view-matches" data-view="matches" aria-labelledby="h-matches" hidden></section>
+
+  <section class="view" id="view-news" data-view="news" aria-labelledby="h-news" hidden></section>
+
+  <section class="view" id="view-table" data-view="table" aria-labelledby="h-table" hidden></section>
+
+  <section class="view" id="view-team" data-view="team" aria-labelledby="h-team" hidden></section>
+
+  <noscript><p class="noscript">تحتاج هذه الصفحة إلى تفعيل جافاسكربت في المتصفح لعرض المباريات والأخبار.</p></noscript>
+</main>
+
+<footer class="site-foot">
+  <p>منصة جماهيرية غير رسمية، وغير تابعة لنادي ريال مدريد.</p>
+  <p id="foot-sources">النتائج والمواعيد والترتيب من SportRadar، والأخبار من مصادرها المذكورة مع كل خبر.</p>
+</footer>
+
+<nav class="tabbar" aria-label="الأقسام">
+  <a href="#/" data-route="home">
+    <svg aria-hidden="true"><use href="/icons.svg#i-home"/></svg>
+    <span>الرئيسية</span>
+  </a>
+  <a href="#/matches" data-route="matches">
+    <svg aria-hidden="true"><use href="/icons.svg#i-cal"/></svg>
+    <span>المباريات</span>
+  </a>
+  <a href="#/news" data-route="news">
+    <svg aria-hidden="true"><use href="/icons.svg#i-news"/></svg>
+    <span>الأخبار</span>
+  </a>
+  <a href="#/table" data-route="table">
+    <svg aria-hidden="true"><use href="/icons.svg#i-table"/></svg>
+    <span>الترتيب</span>
+  </a>
+  <a href="#/team" data-route="team">
+    <svg aria-hidden="true"><use href="/icons.svg#i-team"/></svg>
+    <span>الفريق</span>
+  </a>
+</nav>
+</body>
+</html>
