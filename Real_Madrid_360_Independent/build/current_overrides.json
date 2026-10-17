@@ -1,0 +1,36 @@
+{
+  "absences": [
+    {
+      "name": "فينيسيوس جونيور",
+      "kind": "suspended",
+      "status": "موقوف 4 مباريات في الدوري",
+      "detail": "يغيب عن إشبيلية وبرشلونة وراسينغ سانتاندير وفالنسيا في الدوري، ومتاح في دوري الأبطال.",
+      "ligaBanFixtures": ["72478640", "72478654", "72478680", "72478702"]
+    },
+    {
+      "name": "رودريغو",
+      "kind": "injured",
+      "status": "إصابة في الركبة",
+      "detail": "يواصل برنامجه التأهيلي ولم يدخل قائمة إشبيلية."
+    },
+    {
+      "name": "فيرلاند ميندي",
+      "kind": "injured",
+      "status": "مصاب",
+      "detail": "غير موجود في قائمة إشبيلية."
+    },
+    {
+      "name": "راؤول أسينسيو",
+      "kind": "injured",
+      "status": "كسر إجهادي في الساق",
+      "detail": "يواصل برنامجه التأهيلي ولم يدخل قائمة إشبيلية."
+    }
+  ],
+  "absencesSource": {
+    "label": "ريال مدريد الرسمي، 17 أكتوبر 2026",
+    "url": "https://www.realmadrid.com/ar-AE/news/football/first-team/squad-call/convocatoria-del-real-madrid-contra-el-sevilla-17-10-2026"
+  },
+  "removeFallbackNewsIds": [
+    "2026-10-16-rm-team-news"
+  ]
+}
