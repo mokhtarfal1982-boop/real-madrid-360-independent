@@ -35,11 +35,11 @@
     if (typeof u !== 'string') return '';
     try { var x = new URL(u.trim()); return (x.protocol === 'https:' && x.hostname.indexOf('.') > 0) ? x.href : ''; } catch (e) { return ''; }
   }
-  function parseNewsDate(v) {
+  function parseNewsDate(v, allowFuture) {
     if (typeof v !== 'string') return null;
     var s = v.trim(), dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(s);
     var t = Date.parse(dateOnly ? s + 'T12:00:00+03:00' : s);
-    if (isNaN(t) || t > R.now() + 2 * 3600 * 1000) return null;
+    if (isNaN(t) || (!allowFuture && t > R.now() + 2 * 3600 * 1000)) return null;
     return { t: t, dateOnly: dateOnly, raw: s };
   }
   function hashId(s) {
@@ -146,7 +146,7 @@
       seen[title] = true;
       var type = contentType(it, cat), cert = certainty(it, cat, type);
       var updated = parseNewsDate(it.updatedAt || it.updated_at_utc || it.verifiedAt || '');
-      var event = parseNewsDate(it.eventAt || it.event_at_utc || '');
+      var event = parseNewsDate(it.eventAt || it.event_at_utc || '', true);
       var id = cleanText(it.id, 140) || hashId(title + '|' + published.t);
       out.push({
         id: id, cat: cat, title: title, summary: cleanText(it.summary, 900), body: cleanBody(it.body),
