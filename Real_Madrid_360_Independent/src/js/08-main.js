@@ -2,18 +2,30 @@
 (function (R) {
   'use strict';
   var $ = R.$, state = R.state;
-  var ROUTES = { '': 'home', home: 'home', matches: 'matches', news: 'news', table: 'table', team: 'team' };
+  var ROUTES = { '': 'home', home: 'home', matches: 'matches', news: 'news', table: 'table', team: 'team', article: 'article' };
   function each(sel, fn) { document.querySelectorAll(sel).forEach(fn); }
-
+  function routeInfo() {
+    var raw = (location.hash || '').replace(/^#\/?/, '');
+    var q = raw.split('?'), path = q[0], parts = path.split('/');
+    if (parts[0] === 'article' && parts[1]) {
+      var id = parts.slice(1).join('/');
+      try { id = decodeURIComponent(id); } catch (e) {}
+      return { view: 'article', id: id, query: q[1] || '' };
+    }
+    return { view: ROUTES[parts[0]] || 'home', id: '', query: q[1] || '' };
+  }
   function show(first) {
-    var parts = (location.hash || '').replace(/^#\/?/, '').split('?');
-    var view = ROUTES[parts[0]] || 'home';
-    if (view === 'matches' && parts[1] === 'results') state.matchMode = 'results';
+    var info = routeInfo(), view = info.view;
+    if (view === 'matches' && info.query === 'results') state.matchMode = 'results';
     each('.view', function (v) { v.hidden = v.getAttribute('data-view') !== view; });
     each('[data-route]', function (a) {
-      if (a.getAttribute('data-route') === view) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+      var route = a.getAttribute('data-route');
+      if (route === view || (view === 'article' && route === 'news')) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
     });
-    document.title = view === 'home' ? 'ريال مدريد 360' : R.VIEW_TITLES[view] + ' | ريال مدريد 360';
+    if (view === 'article') {
+      document.title = 'خبر | ريال مدريد 360';
+      R.safe(function () { R.renderArticle(info.id); });
+    } else document.title = view === 'home' ? 'ريال مدريد 360' : R.VIEW_TITLES[view] + ' | ريال مدريد 360';
     if (view === 'matches') { R.syncMatchControls(); R.safe(R.renderMatches); }
     if (view === 'news') R.safe(R.renderNewsView);
     if (view === 'table') R.safe(R.renderFullTable);
@@ -22,7 +34,6 @@
       var main = $('main'); if (main && main.focus) main.focus({ preventScroll: true });
     }
   }
-
   function bind() {
     each('#view-matches [data-mode]', function (b) {
       b.addEventListener('click', function () { state.matchMode = b.getAttribute('data-mode'); R.syncMatchControls(); R.safe(R.renderMatches); });
@@ -55,7 +66,6 @@
       tick.addEventListener('touchend', function () { setTimeout(function () { tick.classList.remove('paused'); }, 1200); }, { passive: true });
     }
   }
-
   function init() {
     if (!R.D || !Array.isArray(R.D.matches)) {
       var main = R.clear($('main'));
@@ -68,6 +78,5 @@
     R.loadNews();
     R.loadFeed();
   }
-
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })(window.RM360);
