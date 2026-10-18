@@ -1,7 +1,52 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-10-17T10:13:00+03:00",
+  "updatedAt": "2026-10-18T21:20:00+03:00",
   "items": [
+    {
+      "id": "2026-10-18-sevilla-lineup",
+      "category": "reliable",
+      "title": "إندريك يبدأ أمام إشبيلية وفالفيردي ظهيرًا أيمن في تغييرات مورينيو",
+      "summary": "أوردت صحيفة آس تشكيلة مواجهة إشبيلية: كورتوا؛ فالفيردي وكوناتي وهويسن وكوكوريلا؛ تشواميني وأردا غولر؛ إندريك وبيلينغهام وديوماندي؛ مبابي. يبدأ برناردو سيلفا وترينت ودومفريس على مقاعد البدلاء. التشكيلة منشورة صحفيًا؛ لا ننسبها إلى إعلان رسمي دون رابط النادي الأصلي.",
+      "source": "صحيفة آس",
+      "url": "https://as.com/futbol/primera/revolucion-de-mou-valverde-lateral-guler-al-medio-endrick-en-la-derecha-f202610-n/",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "2026-10-18-match-preview",
+      "category": "official",
+      "title": "ريال مدريد يستقبل إشبيلية بعد 5 انتصارات متتالية على أرضه",
+      "summary": "أعلن النادي أن الفريق فاز بمبارياته الخمس على ملعبه هذا الموسم، مسجلًا 15 هدفًا ومستقبلًا 3. يغيب فينيسيوس للإيقاف، ويواصل أسينسيو وميندي ورودريغو التعافي. المواجهة عند 10:00 مساءً بتوقيت السعودية.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/previas/real-madrid-sevilla-a-prolongar-la-racha-de-victorias-en-el-bernabeu-18-10-2026",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "2026-10-17-squad-sevilla",
+      "category": "official",
+      "title": "القائمة الرسمية أمام إشبيلية تضم ميليتاو وبرناردو سيلفا وإندريك",
+      "summary": "أعلن ريال مدريد قائمة المستدعين لمواجهة إشبيلية، وفيها ميليتاو وكامافينجا وبرناردو سيلفا وأردا غولر وإندريك وديوماندي. وجود ميليتاو في القائمة ينفي اعتباره غائبًا مؤكدًا، لكنه لا يضمن مشاركته.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/squad-call/convocatoria-del-real-madrid-contra-el-sevilla-17-10-2026",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "2026-10-18-referee",
+      "category": "official",
+      "title": "رابطة الدوري تؤكد طاقم تحكيم مباراة ريال مدريد وإشبيلية",
+      "summary": "تحدد رابطة الدوري الإسباني ماتيو بوسكيتس فيرير حكمًا للساحة، مع عرض بقية الطاقم التحكيمي في الصفحة الرسمية للمباراة. التعيين رسمي وليس توقعًا صحفيًا.",
+      "source": "رابطة الدوري الإسباني",
+      "url": "https://iaas-public-front-pro.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-real-madrid-sevilla-fc-9",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "2026-10-18-press-lineup-context",
+      "category": "reliable",
+      "title": "الصحافة الإسبانية تركز على أول مشاركة أساسية لإندريك وغياب فينيسيوس",
+      "summary": "تناولت صحيفة إلباييس تغييرات مورينيو قبل إشبيلية: مشاركة إندريك أساسيًا، وتوظيف فالفيردي على الطرف الدفاعي، وعودة أردا غولر إلى التشكيلة، وسط غياب فينيسيوس بسبب عقوبة الإيقاف. هذه تغطية صحفية للمباراة وليست بيانًا طبيًا.",
+      "source": "إلباييس",
+      "url": "https://elpais.com/deportes/futbol/2026-10-18/real-madrid-sevilla-en-directo-el-partido-de-la-liga-en-vivo.html",
+      "date": "2026-10-18"
+    },
     {
       "id": "2026-10-16-tebas",
       "category": "official",
@@ -18,15 +63,6 @@
       "summary": "رفضت لجنة الاستئناف في الاتحاد الإسباني الطعن، فيغيب فينيسيوس عن إشبيلية وبرشلونة وراسينغ وفالنسيا في الدوري، ويتجه النادي إلى المحكمة الإدارية للرياضة.",
       "source": "Yahoo Sports",
       "url": "https://sports.yahoo.com/articles/real-madrid-appeal-rejected-vinicius-131015686.html",
-      "date": "2026-10-16"
-    },
-    {
-      "id": "2026-10-16-rm-team-news",
-      "category": "reliable",
-      "title": "أربعة مصابين وموقوف في ريال مدريد قبل مواجهة إشبيلية",
-      "summary": "يغيب ميليتاو ورودريغو وفيرلاند ميندي وراؤول أسينسيو للإصابة، إضافة إلى فينيسيوس الموقوف.",
-      "source": "Sports Mole",
-      "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/real-madrid-vs-sevilla-prediction-team-news-lineups_607030.html",
       "date": "2026-10-16"
     },
     {
