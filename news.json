@@ -1,7 +1,88 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-10-18T21:20:00+03:00",
+  "updatedAt": "2026-10-19T02:28:00+03:00",
   "items": [
+    {
+      "id": "2026-10-19-mourinho-presser",
+      "category": "official",
+      "title": "خاص | مؤتمر مورينيو الكامل بعد الفوز على إشبيلية: 7 ملفات رئيسية",
+      "summary": "في المؤتمر الرسمي بعد الفوز 4-1، أشاد مورينيو بالسيطرة والاستحواذ وجودة الأهداف، وشرح توظيف فالفيردي ظهيرًا أيمن خلف إندريك، وأكد أن فينيسيوس سيبدأ أمام لايبزيغ، ورفض الجزم بوجود اعتداء من أردا غولر دون صور واضحة. امتدح موهبة ديوماندي مع ضرورة تحسين قراره الأخير، وقال إنه يركز على دوري الأبطال قبل الكلاسيكو. افتح التغطية الخاصة أدناه لقراءة التفاصيل كاملة.",
+      "source": "ريال مدريد — المؤتمر الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-18-sevilla-result",
+      "category": "official",
+      "title": "رسميًا | ريال مدريد يهزم إشبيلية 4-1 ويحقق انتصاره السادس على ملعبه",
+      "summary": "فاز ريال مدريد 4-1: أردا غولر في الدقيقة 30، مبابي في الدقيقتين 37 و63 (الثاني من ركلة جزاء على طريقة بانينكا)، وديوماندي في الدقيقة 82، فيما سجل مانو بوينو لإشبيلية في الدقيقة 80. صنع بيلينغهام فرصة هدف مبابي الأول بتمريرة بالكعب، وعاد ميليتاو للمشاركة في الدقيقة 85.",
+      "source": "ريال مدريد — تقرير المباراة",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "2026-10-19-mourinho-valverde",
+      "category": "official",
+      "title": "مورينيو يشرح اختياره فالفيردي ظهيرًا أيمن بدل الظهيرين المتخصصين",
+      "summary": "قال مورينيو إن فالفيردي من أكثر اللاعبين تعددًا للمراكز، وإنه أراد ظهيرًا يمتلك القوة والمهارة خلف إندريك. وأكد أن هذا الاختيار جاء رغم توافر ظهيرين أيمنين جيدين على مقاعد البدلاء.",
+      "source": "ريال مدريد — المؤتمر الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-mourinho-vini",
+      "category": "official",
+      "title": "مورينيو: فينيسيوس سيبدأ مباراة لايبزيغ الأربعاء",
+      "summary": "صرّح مورينيو بأن فينيسيوس سيشارك أساسيًا يوم الأربعاء، مشيرًا إلى استفادته من الراحة والعمل البدني خلال مباراة إشبيلية. هذا تصريح رسمي عن النية الفنية، وليس التشكيلة الرسمية للمباراة المقبلة.",
+      "source": "ريال مدريد — المؤتمر الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-mourinho-referee",
+      "category": "official",
+      "title": "مورينيو يرد على جدل أردا غولر: لم أشاهد صورة حاسمة",
+      "summary": "قال مورينيو إنه طلب مراجعة اللقطات من المحللين والبث التلفزيوني ولم يجد صورة واضحة تثبت الواقعة التي أثارت اعتراض مدرب إشبيلية. ووعد بالتعليق إن ظهرت صورة موضوعية وواضحة. هذا موقف المدرب وليس حكمًا قاطعًا بصحة القرار التحكيمي.",
+      "source": "ريال مدريد — المؤتمر الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-mourinho-diomande",
+      "category": "official",
+      "title": "مورينيو يشيد بديوماندي ويحذره من ضرورة تحسين اللمسة الأخيرة",
+      "summary": "وصف المدرب ديوماندي بأنه لاعب شاب يملك هامش تطور كبير، وأنه يحتاج إلى تحسين اتخاذ القرار قرب المرمى: رفع الرأس، التمرير، والإنهاء تحت الضغط. وشبّه مسار تطوره ببدايات فينيسيوس.",
+      "source": "ريال مدريد — المؤتمر الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-mourinho-clasico",
+      "category": "official",
+      "title": "مورينيو يؤجل التفكير في برشلونة: التركيز الآن على لايبزيغ",
+      "summary": "قال المدرب إنه لن يشغل نفسه بمواجهة برشلونة قبل انتهاء لقاء دوري الأبطال يوم الأربعاء، مشددًا على أن تغييرات التشكيلة ضد إشبيلية كانت مبنية على مؤشرات فنية لا على معيار ثابت لأحقية المشاركة.",
+      "source": "ريال مدريد — المؤتمر الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-militao-return",
+      "category": "official",
+      "title": "عودة ميليتاو إلى الملعب في الدقيقة 85 بعد إصابة أبريل",
+      "summary": "أكد تقرير النادي أن ميليتاو شارك في الدقيقة 85، للمرة الأولى منذ إصابته يوم 21 أبريل، وسط تصفيق جماهير البرنابيو. لا تعني الدقائق القليلة جاهزيته للعب مباراة كاملة.",
+      "source": "ريال مدريد — تقرير المباراة",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-analysis-as",
+      "category": "reliable",
+      "title": "تحليل صحيفة آس: غولر وديوماندي وفالفيردي أبرز مكاسب الفوز",
+      "summary": "أشادت صحيفة آس بتأثير غولر في الوسط، وبدور ديوماندي في الهدف الأول وركلة الجزاء والهدف الرابع، وبمساهمة فالفيردي دفاعيًا وهجوميًا. ولفتت إلى بعض الثغرات الدفاعية رغم الفوز الكبير. هذا تقييم صحفي وليس تصنيفًا إحصائيًا رسميًا.",
+      "source": "صحيفة آس — تقييمات اللاعبين",
+      "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-real-madrid-contra-el-sevilla-f202610-n/",
+      "date": "2026-10-19"
+    },
     {
       "id": "2026-10-18-sevilla-lineup",
       "category": "reliable",
