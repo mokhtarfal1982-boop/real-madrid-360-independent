@@ -54,11 +54,12 @@ LIGA_FINALS = [
     (72478518,"2026-08-28T17:00","RAC","ELC",3,2),(72478618,"2026-10-11T19:00","RAC","VCF",2,2),
     (72478500,"2026-08-24T17:30","OSA","LEV",0,0),
     (72478538,"2026-09-06T16:30","MCF","LEV",0,0),
+    (72478640,"2026-10-18T19:00","RMA","SEV",4,1),
 ]
 
 # SportRadar La Liga standings (rank order), W/D/L/Pts
 LIGA_STANDINGS = [
-    ("BAR",8,0,0,24),("ATM",6,1,1,19),("RBB",6,1,1,19),("RMA",6,0,2,18),("SEV",4,2,2,14),
+    ("BAR",8,0,0,24),("RMA",7,0,2,21),("ATM",6,1,1,19),("RBB",6,1,1,19),("SEV",4,2,3,14),
     ("RSO",4,1,3,13),("ALA",3,2,3,11),("DEP",2,5,2,11),("RCC",1,5,2,8),("ATH",2,2,2,8),
     ("VIL",2,2,4,8),("ESP",2,2,4,8),("RVC",2,2,3,8),("GET",2,2,4,8),("RAC",2,2,4,8),
     ("OSA",2,2,4,8),("LEV",1,4,3,7),("ELC",1,3,4,6),("VCF",1,2,5,5),("MCF",0,4,4,4),
@@ -90,8 +91,9 @@ RM_MATCHES = [
     # Champions League, played
     ("74165878","ucl","2026-09-08T19:00","RMA","INT",2,1,True),
     ("74165926","ucl","2026-10-14T19:00","ROM","RMA",3,4,True),
+    # La Liga: confirmed result of Sevilla match
+    ("72478640","liga","2026-10-18T19:00","RMA","SEV",4,1,True),
     # Upcoming (times from SportRadar; later La Liga dates are placeholders until set)
-    ("72478640","liga","2026-10-18T19:00","RMA","SEV",None,None,True),
     ("74165970","ucl","2026-10-21T19:00","RMA","RBL",None,None,True),
     ("72478654","liga","2026-10-25T20:00","BAR","RMA",None,None,True),
     ("72478680","liga","2026-11-01T15:15","RAC","RMA",None,None,True),
@@ -186,7 +188,7 @@ def compute_table(matches):
 
 def main(out_path):
     ids = [m[0] for m in LIGA_FINALS]
-    assert len(ids) == len(set(ids)) == 79, (len(ids), len(set(ids)))
+    assert len(ids) == len(set(ids)) == 80, (len(ids), len(set(ids)))
     table = compute_table(LIGA_FINALS)
     errors = []
     for code, w, d, l, pts in LIGA_STANDINGS:
