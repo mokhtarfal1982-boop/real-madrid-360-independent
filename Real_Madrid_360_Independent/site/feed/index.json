@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-19T20:35:00+03:00",
+  "updatedAt": "2026-10-19T22:11:00+03:00",
   "news": [
+    "items/20261019-demichelis-leipzig-madrid.json",
+    "items/20261019-diomande-vinicius-dribbles.json",
+    "items/20261019-guler-midfield-tactical.json",
     "items/20261019-training-ahead-leipzig.json",
     "items/20261019-cucurella-roma-focus.json",
     "items/20261019-sevilla-official-lineup-analysis.json",
