@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-19T02:45:00+03:00",
+  "updatedAt": "2026-10-19T14:00:00+03:00",
   "news": [
+    "items/20261019-kovacs-referee-leipzig.json",
     "items/20261019-0230-mourinho-post-sevilla.json",
     "items/20261019-0215-sevilla-final-4-1.json",
     "items/20261019-0200-mourinho-vinicius-leipzig.json",
