@@ -1,7 +1,27 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-10-19T19:10:00+03:00",
+  "updatedAt": "2026-10-19T20:35:00+03:00",
   "items": [
+    {
+      "id": "20261019-training-ahead-leipzig",
+      "category": "official",
+      "title": "ريال مدريد يتدرب استعدادًا لمواجهة لايبزيغ",
+      "summary": "نشر النادي تقريرًا عن الحصة التدريبية للفريق استعدادًا لمواجهة لايبزيغ؛ ولا يثبت التقرير وحده جاهزية كل لاعب أو التشكيلة المقبلة.",
+      "source": "ريال مدريد — التدريبات",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-19-10-2026",
+      "date": "2026-10-19",
+      "dateOnly": true
+    },
+    {
+      "id": "20261019-cucurella-roma-focus",
+      "category": "official",
+      "title": "كوكوريّا يشدد على التركيز أمام لايبزيغ بعد دروس مواجهة روما",
+      "summary": "في تصريحات نشرها ريال مدريد، أكد كوكوريّا أهمية الحفاظ على التركيز طوال المواجهة الأوروبية والاستفادة من درس مباراة روما.",
+      "source": "ريال مدريد — تصريحات الفريق",
+      "url": "https://www.realmadrid.com/es-ES/noticias",
+      "date": "2026-10-19",
+      "dateOnly": true
+    },
     {
       "id": "20261019-sevilla-official-lineup-analysis",
       "category": "analysis",
