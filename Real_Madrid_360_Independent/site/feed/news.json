@@ -1,1 +1,150 @@
-{"schema":"rm360-news/1","updatedAt":"2026-10-17T20:36:00+03:00","items":[{"id":"20261017-2036-real-madrid-sevilla-referee","category":"official","title":"ماتيو بوسكيتس فيرير حكمًا لمواجهة ريال مدريد وإشبيلية","summary":"أعلنت الجهات الرسمية تعيين ماتيو بوسكيتس فيرير لإدارة مباراة ريال مدريد وإشبيلية في الجولة 9 من الدوري الإسباني. وتقام المباراة الأحد 18 أكتوبر في سانتياغو برنابيو عند 22:00 بتوقيت السعودية.","source":"رابطة الدوري الإسباني","url":"https://www.laliga.com/es-US/partido/temporada-2026-2027-laliga-ea-sports-real-madrid-sevilla-fc-9","date":"2026-10-17T20:36:00+03:00"},{"id":"20261017-2036-mourinho-before-sevilla","category":"official","title":"مورينيو قبل إشبيلية: الفريق سيكون جاهزًا ولدينا خيارات لإضفاء الحيوية","summary":"أكد جوزيه مورينيو أن الإرهاق بعد مواجهة روما لن يمنع الفريق من الوصول بحالة جيدة لمباراة إشبيلية، مشيرًا إلى امتلاك خيارات تسمح بإجراء تغييرات ومنح التشكيلة مزيدًا من الحيوية.","source":"ريال مدريد","url":"https://www.realmadrid.com/ar-AE/news/football/first-team/press-conference/mourinho-x-17-10-2026","date":"2026-10-17T20:35:00+03:00"},{"id":"20261017-1716-final-training-before-sevilla","category":"official","title":"ريال مدريد ينهي استعداداته لإشبيلية ورودريغو وأسينسيو يواصلان التعافي","summary":"أنهى ريال مدريد حصته التدريبية الأخيرة قبل مواجهة إشبيلية. وأكد النادي أن رودريغو وراؤول أسينسيو يواصلان برنامجيهما التأهيليين، من دون إعلان عودتهما إلى الجاهزية للمباراة.","source":"ريال مدريد","url":"https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-17-10-2026","date":"2026-10-17T17:16:00+03:00"},{"id":"20261017-1715-real-madrid-squad-vs-sevilla","category":"official","title":"ريال مدريد يعلن قائمته الرسمية لمواجهة إشبيلية وميليتاو يعود","summary":"أعلن ريال مدريد قائمة الفريق لمواجهة إشبيلية في الجولة 9، وشهدت عودة إيدير ميليتاو إلى القائمة الرسمية. وغاب فينيسيوس جونيور ورودريغو وراؤول أسينسيو وفيرلاند ميندي عن القائمة.","source":"ريال مدريد","url":"https://www.realmadrid.com/ar-AE/news/football/first-team/squad-call/convocatoria-del-real-madrid-contra-el-sevilla-17-10-2026","date":"2026-10-17T17:15:00+03:00"},{"id":"20261016-1200-vinicius-appeal-rejected","category":"reliable","title":"رفض استئناف ريال مدريد وتثبيت إيقاف فينيسيوس 4 مباريات","summary":"رفضت لجنة الاستئناف في الاتحاد الإسباني الطعن، فيغيب فينيسيوس عن إشبيلية وبرشلونة وراسينغ وفالنسيا في الدوري، ويتجه النادي إلى المحكمة الإدارية للرياضة.","source":"Yahoo Sports","url":"https://sports.yahoo.com/articles/real-madrid-appeal-rejected-vinicius-131015686.html","date":"2026-10-16"},{"id":"20261016-1200-sevilla-absences-bernabeu","category":"reliable","title":"إشبيلية يفتقد أربعة لاعبين قبل زيارة البرنابيو","summary":"يغيب ماركاو وجون غوريدي وميغيل سييرا للإصابة، وإيساك روميرو للإيقاف بعد طرده أمام ليفانتي.","source":"Sports Mole","url":"https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/real-madrid-vs-sevilla-prediction-team-news-lineups_607030.html","date":"2026-10-16"},{"id":"2026-10-16-tebas","category":"official","title":"ريال مدريد يطالب رئيس رابطة الدوري خافيير تيباس بالاستقالة","summary":"صدر بيان النادي بعد منشور لتيباس شبّه فيه أساليب النادي الإعلامية بأساليب دعاية غوبلز، ووصف النادي التشبيه بأنه غير مقبول وخطير للغاية.","source":"ريال مدريد","url":"https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-16-10-2026","date":"2026-10-16"},{"id":"2026-10-10-mourinho-presser","category":"reliable","title":"مورينيو يقاطع المؤتمر الصحفي بعد مباراة فياريال","summary":"قاطع المدرب المؤتمر الصحفي عقب الفوز على فياريال وسط جدل تحكيمي، وأعلن النادي دعمه لقراره.","source":"Goal","url":"https://www.goal.com/en-us/lists/real-madrid-completely-support-jose-mourinho-decision-boycott-villarreal-press-conference-refereeing-controversy/blt2dc4b219eacfbf55","date":"2026-10-10"}]}
+{
+  "schema": "rm360-news/1",
+  "updatedAt": "2026-10-19T19:10:00+03:00",
+  "items": [
+    {
+      "id": "20261019-sevilla-official-lineup-analysis",
+      "category": "analysis",
+      "title": "قراءة فنية في تشكيلة ريال مدريد الرسمية أمام إشبيلية",
+      "summary": "اعتمد الفريق على تشواميني وغولر وبيلينغهام خلف ديوماندي وإندريك ومبابي؛ وهي تشكيلة مباراة إشبيلية فقط وليست توقعًا لمواجهة لايبزيغ.",
+      "source": "ريال مدريد — التشكيلة الرسمية",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/once-inicial-del-real-madrid-ante-el-sevilla-18-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "20261019-militao-return-confirmed",
+      "category": "official",
+      "title": "ميليتاو يعود إلى المباريات بعد غياب طويل",
+      "summary": "عاد المدافع إيدير ميليتاو للمشاركة أمام إشبيلية، لكن جاهزيته للعب مباراة كاملة لم تتأكد.",
+      "source": "ريال مدريد — الموقع الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "20261019-mbappe-onze-dor-verified",
+      "category": "official",
+      "title": "مبابي يتوج بجائزة أونز الذهبية لموسم 2025/26",
+      "summary": "أعلن ريال مدريد فوز كيليان مبابي بجائزة أونز الذهبية وفق تصويت قراء أونز مونديال؛ وهي جائزة مستقلة عن الكرة الذهبية.",
+      "source": "ريال مدريد — الموقع الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "20261019-kovacs-refereeing-analysis",
+      "category": "analysis",
+      "title": "تحليل تحكيمي | كوفاتش أمام لايبزيغ: سجل ريال مدريد، حكم الفيديو، والحالات الجدلية",
+      "summary": "قراءة نقدية في سجل الحكم الروماني مع ريال مدريد (3 انتصارات وهزيمتان)، مع مراجعة واقعة تشواميني أمام ليفربول وطبيعة إدارة المباريات وحدود الاستنتاج من النتائج.",
+      "source": "الاتحاد الأوروبي لكرة القدم — تفسير قرارات الفيديو",
+      "url": "https://www.uefa.com/uefachampionsleague/news/029d-1ebd52c0e86d-cc44b76e6bc1-1000--uefa-champions-league-var-technical-explanations/",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "20261019-kovacs-referee-leipzig",
+      "category": "official",
+      "title": "رسميًا | إستفان كوفاتش حكمًا لمواجهة ريال مدريد ولايبزيغ في دوري أبطال أوروبا",
+      "summary": "تعيين إستفان كوفاتش لمباراة لايبزيغ مع الكشف عن طاقم التحكيم كاملًا، بما فيه حكم الفيديو توماش كفياتكوفسكي ومساعده برام فان دريشه، وسجل 3 انتصارات وهزيمتين لريال مدريد معه.",
+      "source": "ريال مدريد — الموقع الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/istvan-kovacs-arbitrara-el-real-madrid-leipzig-19-10-2026",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "20261019-0230-mourinho-post-sevilla",
+      "category": "official",
+      "title": "خاص | مؤتمر مورينيو بعد الفوز على إشبيلية: تصريحاته وتحليله في 7 محاور",
+      "summary": "ملف موسع لتصريحات مورينيو عقب الانتصار 4-1: تقييم الأداء، فالفيردي ظهيرًا أيمن، فينيسيوس ولايبزيغ، ديوماندي، جدل أردا غولر، الكلاسيكو، وقرارات التشكيلة.",
+      "source": "ريال مدريد — المؤتمر الصحفي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19T00:30:00+03:00"
+    },
+    {
+      "id": "20261019-0215-sevilla-final-4-1",
+      "category": "official",
+      "title": "ريال مدريد 4-1 إشبيلية | النتيجة النهائية والأهداف وعودة ميليتاو",
+      "summary": "سجل أردا غولر في الدقيقة 30، ومبابي في الدقيقتين 37 و63 من ركلة جزاء، وديوماندي في الدقيقة 82. سجل مانو بوينو لإشبيلية في الدقيقة 80، وشارك ميليتاو في الدقيقة 85.",
+      "source": "ريال مدريد — تقرير المباراة",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19T00:10:00+03:00"
+    },
+    {
+      "id": "20261019-0200-mourinho-vinicius-leipzig",
+      "category": "official",
+      "title": "مورينيو يعلن نيته إشراك فينيسيوس أساسيًا أمام لايبزيغ",
+      "summary": "قال مورينيو بعد مواجهة إشبيلية إن فينيسيوس سيبدأ مباراة الأربعاء، لكنه لم يعلن التشكيلة الرسمية بعد.",
+      "source": "ريال مدريد — المؤتمر الصحفي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rueda-de-prensa-de-mourinho-post-real-madrid-sevilla-j9-liga-18-10-2026",
+      "date": "2026-10-19T00:25:00+03:00"
+    },
+    {
+      "id": "20261017-2036-real-madrid-sevilla-referee",
+      "category": "official",
+      "title": "ماتيو بوسكيتس فيرير حكمًا لمواجهة ريال مدريد وإشبيلية",
+      "summary": "أعلنت الجهات الرسمية تعيين ماتيو بوسكيتس فيرير لإدارة مباراة ريال مدريد وإشبيلية في الجولة 9 من الدوري الإسباني. وتقام المباراة الأحد 18 أكتوبر في سانتياغو برنابيو عند 22:00 بتوقيت السعودية.",
+      "source": "رابطة الدوري الإسباني",
+      "url": "https://www.laliga.com/es-US/partido/temporada-2026-2027-laliga-ea-sports-real-madrid-sevilla-fc-9",
+      "date": "2026-10-17T20:36:00+03:00"
+    },
+    {
+      "id": "20261017-2036-mourinho-before-sevilla",
+      "category": "official",
+      "title": "مورينيو قبل إشبيلية: الفريق سيكون جاهزًا ولدينا خيارات لإضفاء الحيوية",
+      "summary": "أكد جوزيه مورينيو أن الإرهاق بعد مواجهة روما لن يمنع الفريق من الوصول بحالة جيدة لمباراة إشبيلية، مشيرًا إلى امتلاك خيارات تسمح بإجراء تغييرات ومنح التشكيلة مزيدًا من الحيوية.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/ar-AE/news/football/first-team/press-conference/mourinho-x-17-10-2026",
+      "date": "2026-10-17T20:35:00+03:00"
+    },
+    {
+      "id": "20261017-1716-final-training-before-sevilla",
+      "category": "official",
+      "title": "ريال مدريد ينهي استعداداته لإشبيلية ورودريغو وأسينسيو يواصلان التعافي",
+      "summary": "أنهى ريال مدريد حصته التدريبية الأخيرة قبل مواجهة إشبيلية. وأكد النادي أن رودريغو وراؤول أسينسيو يواصلان برنامجيهما التأهيليين، من دون إعلان عودتهما إلى الجاهزية للمباراة.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-17-10-2026",
+      "date": "2026-10-17T17:16:00+03:00"
+    },
+    {
+      "id": "20261017-1715-real-madrid-squad-vs-sevilla",
+      "category": "official",
+      "title": "ريال مدريد يعلن قائمته الرسمية لمواجهة إشبيلية وميليتاو يعود",
+      "summary": "أعلن ريال مدريد قائمة الفريق لمواجهة إشبيلية في الجولة 9، وشهدت عودة إيدير ميليتاو إلى القائمة الرسمية. وغاب فينيسيوس جونيور ورودريغو وراؤول أسينسيو وفيرلاند ميندي عن القائمة.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/ar-AE/news/football/first-team/squad-call/convocatoria-del-real-madrid-contra-el-sevilla-17-10-2026",
+      "date": "2026-10-17T17:15:00+03:00"
+    },
+    {
+      "id": "20261016-1200-vinicius-appeal-rejected",
+      "category": "reliable",
+      "title": "رفض استئناف ريال مدريد وتثبيت إيقاف فينيسيوس 4 مباريات",
+      "summary": "رفضت لجنة الاستئناف في الاتحاد الإسباني الطعن، فيغيب فينيسيوس عن إشبيلية وبرشلونة وراسينغ وفالنسيا في الدوري، ويتجه النادي إلى المحكمة الإدارية للرياضة.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/real-madrid-appeal-rejected-vinicius-131015686.html",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "20261016-1200-sevilla-absences-bernabeu",
+      "category": "reliable",
+      "title": "إشبيلية يفتقد أربعة لاعبين قبل زيارة البرنابيو",
+      "summary": "يغيب ماركاو وجون غوريدي وميغيل سييرا للإصابة، وإيساك روميرو للإيقاف بعد طرده أمام ليفانتي.",
+      "source": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/real-madrid-vs-sevilla-prediction-team-news-lineups_607030.html",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-tebas",
+      "category": "official",
+      "title": "ريال مدريد يطالب رئيس رابطة الدوري خافيير تيباس بالاستقالة",
+      "summary": "صدر بيان النادي بعد منشور لتيباس شبّه فيه أساليب النادي الإعلامية بأساليب دعاية غوبلز، ووصف النادي التشبيه بأنه غير مقبول وخطير للغاية.",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-16-10-2026",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-10-mourinho-presser",
+      "category": "reliable",
+      "title": "مورينيو يقاطع المؤتمر الصحفي بعد مباراة فياريال",
+      "summary": "قاطع المدرب المؤتمر الصحفي عقب الفوز على فياريال وسط جدل تحكيمي، وأعلن النادي دعمه لقراره.",
+      "source": "Goal",
+      "url": "https://www.goal.com/en-us/lists/real-madrid-completely-support-jose-mourinho-decision-boycott-villarreal-press-conference-refereeing-controversy/blt2dc4b219eacfbf55",
+      "date": "2026-10-10"
+    }
+  ]
+}
