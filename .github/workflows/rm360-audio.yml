@@ -1,0 +1,37 @@
+name: RM360 Audio Cache
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: rm360-audio-cache
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate missing recordings once
+        working-directory: Real_Madrid_360_Independent
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: KJe6YIQ4MHI94EGaDZC7
+          RM360_AUDIO_MAX_NEW: '3'
+        run: python3 build/generate_audio.py
+      - name: Persist audio and manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Real_Madrid_360_Independent/site/audio/
+          if ! git diff --cached --quiet; then
+            git commit -m "Cache generated RM360 audio recordings"
+            git push origin HEAD:main
+          fi
