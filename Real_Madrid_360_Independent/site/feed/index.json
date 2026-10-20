@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-19T22:11:00+03:00",
+  "updatedAt": "2026-10-20T06:03:49+03:00",
   "news": [
+    "items/20261019-sevilla-var-audio-request.json",
+    "items/20261019-guler-peque-var-no-clear-images.json",
     "items/20261019-demichelis-leipzig-madrid.json",
     "items/20261019-diomande-vinicius-dribbles.json",
     "items/20261019-guler-midfield-tactical.json",
