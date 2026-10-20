@@ -1,7 +1,29 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-10-20T06:03:49+03:00",
+  "updatedAt": "2026-10-20T06:28:13+03:00",
   "items": [
+    {
+      "id": "20261019-leipzig-diomande-reunion",
+      "category": "official",
+      "contentType": "news",
+      "title": "لايبزيغ يستعرض تطور ديوماندي مع ريال مدريد قبل المواجهة الأوروبية",
+      "summary": "أبرز لايبزيغ مساهمات جناحه السابق يان ديوماندي أمام روما وإشبيلية قبل لقاء الفريقين في دوري الأبطال.",
+      "source": "نادي لايبزيغ — الموقع الرسمي",
+      "url": "https://rbleipzig.com/en/news/yan-diomande-real-madrid-champions-league-rb-leipzig-reunion-jose-mourinho",
+      "date": "2026-10-19",
+      "dateOnly": true
+    },
+    {
+      "id": "20261019-leipzig-five-facts",
+      "category": "analysis",
+      "contentType": "analysis",
+      "title": "5 مؤشرات قبل مواجهة لايبزيغ: أرقام مبابي ونكونكو وعودة ديوماندي",
+      "summary": "معاينة لايبزيغ الرسمية تسلط الضوء على بداية ريال مدريد المثالية أوروبيًا واقتراب مبابي ونكونكو من إنجازات رقمية.",
+      "source": "نادي لايبزيغ — معاينة رسمية",
+      "url": "https://rbleipzig.com/en/news/match-preview-real-madrid-vs-rb-leipzig-champions-league-21-october-2026",
+      "date": "2026-10-19",
+      "dateOnly": true
+    },
     {
       "id": "20261019-sevilla-var-audio-request",
       "category": "reliable",
