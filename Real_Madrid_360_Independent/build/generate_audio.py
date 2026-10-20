@@ -5,6 +5,7 @@ Run from repository root. Never exposes the API key to the browser.
 import hashlib
 import json
 import os
+import sys
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
@@ -68,7 +69,16 @@ def main():
             with urlopen(req, timeout=90) as response:
                 data = response.read()
         except HTTPError as exc:
-            raise SystemExit("ElevenLabs generation failed: HTTP " + str(exc.code)) from None
+            raw = exc.read(4096).decode("utf-8", errors="replace")
+            try:
+                detail = json.loads(raw).get("detail", {})
+                status = detail.get("status", "unknown") if isinstance(detail, dict) else "unknown"
+                message = detail.get("message", "") if isinstance(detail, dict) else ""
+            except ValueError:
+                status, message = "unknown", ""
+            # Never log tokens or request headers. Do not retry billing failures automatically.
+            print("ElevenLabs request rejected: HTTP %s; status=%s; detail=%s" % (exc.code, status, str(message)[:300]), file=sys.stderr)
+            raise SystemExit(1) from None
         if len(data) < 100:
             raise SystemExit("ElevenLabs returned an unexpectedly small audio file")
         target.write_bytes(data)
