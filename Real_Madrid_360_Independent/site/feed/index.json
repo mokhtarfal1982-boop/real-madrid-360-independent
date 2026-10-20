@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-20T06:28:13+03:00",
+  "updatedAt": "2026-10-20T08:04:23+03:00",
   "news": [
+    "items/20261020-guler-mourinho-central-midfield.json",
+    "items/20261020-valencia-rest-schedule.json",
+    "items/20261020-deschamps-mourinho-unconfirmed.json",
     "items/20261019-leipzig-diomande-reunion.json",
     "items/20261019-leipzig-five-facts.json",
     "items/20261019-sevilla-var-audio-request.json",
