@@ -21,6 +21,9 @@ jobs:
           python-version: '3.11'
       - name: Install free Piper speech engine
         run: python3 -m pip install --disable-pip-version-check piper-tts
+      - name: Download free Arabic Kareem voice model
+        working-directory: Real_Madrid_360_Independent
+        run: python3 -m piper.download_voices ar_JO-kareem-medium
       - name: Generate missing recordings once
         working-directory: Real_Madrid_360_Independent
         env:
