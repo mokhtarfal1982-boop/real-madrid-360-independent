@@ -1,1 +1,17 @@
-{}
+{
+  "20261020-leipzig-data-scouting": {
+    "file": "2c8ee67386e0b5f0.wav",
+    "hash": "2c8ee67386e0b5f0",
+    "engine": "piper"
+  },
+  "20261020-guler-mourinho-central-midfield": {
+    "file": "c8af3811fd858a44.wav",
+    "hash": "c8af3811fd858a44",
+    "engine": "piper"
+  },
+  "20261020-valencia-rest-schedule": {
+    "file": "0f5277a85c3c05f6.wav",
+    "hash": "0f5277a85c3c05f6",
+    "engine": "piper"
+  }
+}
