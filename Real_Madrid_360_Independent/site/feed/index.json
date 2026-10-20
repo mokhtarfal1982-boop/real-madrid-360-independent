@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-20T06:57:46.148Z",
+  "updatedAt": "2026-10-20T16:59:22Z",
   "news": [
+    "items/20261020-mourinho-pre-leipzig-press.json",
+    "items/20261020-official-squad-leipzig.json",
+    "items/20261020-konate-pre-leipzig-press.json",
     "items/20261020-leipzig-data-scouting.json",
     "items/20261020-guler-central-timing.json",
     "items/20261020-valencia-rest-schedule.json",
