@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>المؤتمرات الصحفية | ريال مدريد 360</title>
+<style>body{background:#07101f;color:#f2f5fa;font:17px/1.9 system-ui;margin:auto;max-width:900px;padding:20px}a{color:#a9d4ff}article{background:#13243b;border:1px solid #34516c;border-radius:14px;padding:20px;margin:18px 0}h1{font-size:32px}h2{font-size:22px;line-height:1.5}details{margin-top:15px}summary{cursor:pointer;color:#b7d9ff}.notice{border-right:4px solid #d8b879;padding:12px;background:#192d43}</style>
+</head><body><header><a href="./">العودة إلى ريال مدريد 360</a></header>
+<main><h1>المؤتمرات الصحفية</h1><p class="notice">المواد الحالية ملخصات تحريرية وليست تفريغًا حرفيًا لجميع الأسئلة والأجوبة. لا نعرض تغطية بوصفها مؤتمرًا كاملًا دون نص أصلي موثق.</p><div id="conferences">جارٍ التحميل…</div></main>
+<script>
+(async function(){
+const root=document.getElementById('conferences');
+function node(tag,value){const n=document.createElement(tag);n.textContent=value||'';return n;}
+try{
+const response=await fetch('./feed/index.json');
+if(!response.ok)throw Error('feed');
+const index=await response.json();
+const paths=(index.news||[]).filter(p=>/^items\/[a-z0-9_.-]+\.json$/.test(p));
+const articles=await Promise.all(paths.map(p=>fetch('./feed/'+p).then(r=>r.ok?r.json():null).catch(()=>null)));
+const list=articles.filter(a=>a&&/مؤتمر|صحفي|press|conference/i.test([a.id,a.title].join(' ')));
+list.sort((a,b)=>String(b.publishedAtSaudi||b.date||'').localeCompare(String(a.publishedAtSaudi||a.date||'')));
+root.textContent='';
+for(const a of list){
+const card=node('article');card.appendChild(node('h2',a.title));
+card.appendChild(node('p',a.publishedAtSaudi||a.date||''));
+card.appendChild(node('p',a.summary));
+const d=node('details');d.appendChild(node('summary','قراءة التغطية'));
+const body=Array.isArray(a.body)?a.body:[a.body];
+for(const p of body){if(typeof p==='string')d.appendChild(node('p',p));}
+if(Array.isArray(a.questions))for(const q of a.questions){if(q.question)d.appendChild(node('p','السؤال: '+q.question));if(q.answer)d.appendChild(node('p','الإجابة: '+q.answer));}
+if(typeof a.url==='string'&&a.url.startsWith('https://')){const link=node('a','المصدر الأصلي');link.href=a.url;link.rel='noopener noreferrer';link.target='_blank';d.appendChild(link);}
+card.appendChild(d);root.appendChild(card);
+}
+if(!list.length)root.textContent='لا توجد مؤتمرات منشورة حاليًا.';
+}catch(e){root.textContent='تعذر تحميل التغطيات حاليًا.';}
+})();
+</script></body></html>
