@@ -118,7 +118,7 @@
       var idx = res.j, base = res.base;
       if (!idx || idx.schema !== 'rm360-feed/1') throw new Error('bad index');
       var feedTime = when(idx.updatedAt);
-      var newsPaths = pathList(idx.news, 20);
+      var newsPaths = pathList(idx.news, 100);
       var newsTask = getAll(base, newsPaths).then(function (list) {
         var items = R.validateNews(list.filter(Boolean));
         if (items.length) R.setNews(items, feedTime); else R.loadLegacyNews();
