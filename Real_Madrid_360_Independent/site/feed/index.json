@@ -1,7 +1,11 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-21T16:09:00Z",
+  "updatedAt": "2026-10-21T21:55:00Z",
   "news": [
+    "items/20261022-mbappe-mvp-leipzig-reaction.json",
+    "items/20261022-leipzig-final-official-4-1.json",
+    "items/20261022-clasico-midfield-and-wing-analysis.json",
+    "items/20261022-celta-fixture-official.json",
     "items/20261021-kroos-leipzig-warning.json",
     "items/20261021-nusa-leipzig-tactical-threat.json",
     "items/20261021-huijsen-selection-debate.json",
