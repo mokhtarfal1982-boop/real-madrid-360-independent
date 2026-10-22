@@ -1,7 +1,11 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-22T09:00:00+03:00",
+  "updatedAt": "2026-10-22T12:56:00+03:00",
   "news": [
+    "items/20261022-figo-clasico-2-2-prediction.json",
+    "items/20261022-olmo-officially-out-clasico.json",
+    "items/20261022-guler-crossing-data-clasico.json",
+    "items/20261022-possession-control-as-clasico.json",
     "items/20261022-mourinho-post-leipzig-official.json",
     "items/20261022-huijsen-post-leipzig-clasico.json",
     "items/20261022-leipzig-statistical-review-valverde-bellingham.json",
