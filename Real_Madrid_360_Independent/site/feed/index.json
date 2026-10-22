@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-21T21:55:00Z",
+  "updatedAt": "2026-10-22T09:00:00+03:00",
   "news": [
+    "items/20261022-mourinho-post-leipzig-official.json",
+    "items/20261022-huijsen-post-leipzig-clasico.json",
+    "items/20261022-leipzig-statistical-review-valverde-bellingham.json",
     "items/20261021-real-madrid-leipzig-bernabeu-preview.json",
     "items/20261021-kroos-leipzig-warning.json",
     "items/20261021-nusa-leipzig-tactical-threat.json",
