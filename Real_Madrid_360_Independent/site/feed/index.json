@@ -1,7 +1,11 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T12:00:00+03:00",
+  "updatedAt": "2026-10-23T13:00:00+03:00",
   "news": [
+    "items/20261023-kounde-near-certain-clasico-absence.json",
+    "items/20261023-official-training-clasico-in-progress.json",
+    "items/20261023-guardian-clasico-global-standing.json",
+    "items/20261023-ser-vinicius-zero-dribbles.json",
     "items/20261023-md-three-clasico-lineups.json",
     "items/20261023-md-clasico-results-vs-style.json",
     "items/20261023-romano-guler-signed-until-2032.json",
