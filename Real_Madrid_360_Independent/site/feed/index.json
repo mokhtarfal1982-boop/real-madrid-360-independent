@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T13:00:00+03:00",
+  "updatedAt": "2026-10-23T14:00:00+03:00",
   "news": [
+    "items/20261023-uefa-mbappe-team-of-week-md3.json",
+    "items/20261023-ser-bakero-mbappe-vinicius-psychological-comparison.json",
     "items/20261023-kounde-near-certain-clasico-absence.json",
     "items/20261023-official-training-clasico-in-progress.json",
     "items/20261023-guardian-clasico-global-standing.json",
