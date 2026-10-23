@@ -1,7 +1,12 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-22T19:02:00+03:00",
+  "updatedAt": "2026-10-23T03:00:00+03:00",
   "news": [
+    "items/20261023-nine-regulars-two-clasico-questions.json",
+    "items/20261023-pedri-clasico-message.json",
+    "items/20261022-bernardo-silva-official-five-topics.json",
+    "items/20261022-ser-three-forward-vision.json",
+    "items/20261022-masip-mourinho-negreira-remarks.json",
     "items/20261022-clasico-training-verified.json",
     "items/20261022-csd-refers-tebas-to-sports-tribunal.json",
     "items/20261022-mbappe-vinicius-post-leipzig-support.json",
