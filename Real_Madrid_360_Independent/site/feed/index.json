@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T11:00:00+03:00",
+  "updatedAt": "2026-10-23T12:00:00+03:00",
   "news": [
+    "items/20261023-md-three-clasico-lineups.json",
+    "items/20261023-md-clasico-results-vs-style.json",
     "items/20261023-romano-guler-signed-until-2032.json",
     "items/20261023-tchouameni-valverde-the-bridge.json",
     "items/20261023-courtois-59-shots-76-percent.json",
