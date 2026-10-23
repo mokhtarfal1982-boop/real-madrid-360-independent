@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T18:00:00+03:00",
+  "updatedAt": "2026-10-23T19:00:00+03:00",
   "news": [
+    "items/20261023-as-valverde-leipzig-performance-data.json",
     "items/20261023-reuters-clasico-fourteen-new-faces-mourinho.json",
     "items/20261023-marca-valverde-right-back-camavinga-favored.json",
     "items/20261023-barcelona-staff-strike-clasico-confirmed.json",
