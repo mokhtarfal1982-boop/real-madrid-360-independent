@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T09:00:00+03:00",
+  "updatedAt": "2026-10-23T11:00:00+03:00",
   "news": [
+    "items/20261023-tchouameni-valverde-the-bridge.json",
+    "items/20261023-courtois-59-shots-76-percent.json",
+    "items/20261023-ser-brahim-clasico-option.json",
     "items/20261023-md-mourinho-clasico-media-tension.json",
     "items/20261023-md-individual-clasico-duels.json",
     "items/20261023-klopp-barcelona-favorite-clasico.json",
