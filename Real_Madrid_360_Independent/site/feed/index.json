@@ -1,7 +1,12 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T03:00:00+03:00",
+  "updatedAt": "2026-10-23T09:00:00+03:00",
   "news": [
+    "items/20261023-md-mourinho-clasico-media-tension.json",
+    "items/20261023-md-individual-clasico-duels.json",
+    "items/20261023-klopp-barcelona-favorite-clasico.json",
+    "items/20261023-courtois-remarks.json",
+    "items/20261023-ser-mourinho-alonso-comparison.json",
     "items/20261023-nine-regulars-two-clasico-questions.json",
     "items/20261023-pedri-clasico-message.json",
     "items/20261022-bernardo-silva-official-five-topics.json",
