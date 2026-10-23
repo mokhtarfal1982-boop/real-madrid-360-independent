@@ -1,7 +1,11 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-23T15:00:00+03:00",
+  "updatedAt": "2026-10-23T16:00:00+03:00",
   "news": [
+    "items/20261023-as-clasico-106-106-historical-record.json",
+    "items/20261023-barcelona-official-penultimate-training-youngsters.json",
+    "items/20261023-barcelona-official-clasico-new-faces.json",
+    "items/20261023-as-board-relations-camp-nou-clasico.json",
     "items/20261023-uol-diomande-vinicius-competition.json",
     "items/20261023-uefa-mbappe-team-of-week-md3.json",
     "items/20261023-ser-bakero-mbappe-vinicius-psychological-comparison.json",
