@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-24T22:00:00+03:00",
+  "updatedAt": "2026-10-24T23:00:00+03:00",
   "news": [
+    "items/20261024-mourinho-official-preclasico-press-conference.json",
     "items/20261024-munuera-three-penalties-clasico-disciplinary-record.json",
     "items/20261024-gavi-real-madrid-final-minutes-clasico-warning.json",
     "items/20261024-uol-seven-madrid-players-combined-clasico-xi.json",
@@ -15,7 +16,6 @@
     "items/20261024-official-final-training-before-clasico-asencio-rodrygo.json",
     "items/20261024-as-kounde-ruled-out-clasico-press.json",
     "items/20261024-uol-vinicius-clasico-suspension-form.json",
-    "items/20261024-mourinho-official-preclasico-press-conference.json",
     "items/20261024-guardian-sid-lowe-mourinho-return-clasico.json",
     "items/20261024-valdano-clasico-ball-space-refereeing.json",
     "items/20261024-courtois-dazn-clasico-response.json",
