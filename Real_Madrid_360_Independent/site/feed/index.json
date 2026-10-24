@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-24T02:59:00+03:00",
+  "updatedAt": "2026-10-24T04:55:00+03:00",
   "news": [
+    "items/20261024-mourinho-clasico-dumfries-valverde-camavinga-options.json",
+    "items/20261024-tchouameni-valverde-interview-no-physical-fight.json",
     "items/20261024-real-madrid-twelve-goals-three-games.json",
     "items/20261023-barcelona-staff-strike-clasico-confirmed.json",
     "items/20261023-as-segurola-guler-must-start-clasico.json",
