@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-24T01:02:42+03:00",
+  "updatedAt": "2026-10-24T02:59:00+03:00",
   "news": [
+    "items/20261024-real-madrid-twelve-goals-three-games.json",
     "items/20261023-barcelona-staff-strike-clasico-confirmed.json",
     "items/20261023-as-segurola-guler-must-start-clasico.json",
     "items/20261023-clasico-referee-leak-martinez-munuera-var-unconfirmed.json",
