@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-24T04:55:00+03:00",
+  "updatedAt": "2026-10-24T05:55:00+03:00",
   "news": [
+    "items/20261024-opta-clasico-high-press-away-stats.json",
     "items/20261024-mourinho-clasico-dumfries-valverde-camavinga-options.json",
     "items/20261024-tchouameni-valverde-interview-no-physical-fight.json",
     "items/20261024-real-madrid-twelve-goals-three-games.json",
