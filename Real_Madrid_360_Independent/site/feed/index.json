@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-25T15:00:00+03:00",
+  "updatedAt": "2026-10-25T16:00:00+03:00",
   "news": [
+    "items/20261025-as-cucurella-yamal-direct-duel-clasico.json",
+    "items/20261025-as-gavi-rodri-comments-madrid-clasico.json",
+    "items/20261025-as-asencio-travels-to-support-madrid-clasico.json",
     "items/20261025-as-david-badia-guler-original-pivot-role-interview.json",
     "items/20261025-talksport-trent-right-back-pecking-order-pundit.json",
     "items/20261025-official-courtois-flu-out-clasico-voloshyn-lunin.json",
