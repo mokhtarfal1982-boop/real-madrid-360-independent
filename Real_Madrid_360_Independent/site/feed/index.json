@@ -1,7 +1,12 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-26T01:55:00+03:00",
+  "updatedAt": "2026-10-26T02:56:00+03:00",
   "news": [
+    "items/20261026-official-mourinho-full-post-clasico-press-conference.json",
+    "items/20261026-official-valverde-post-clasico-injury-clarification.json",
+    "items/20261026-official-mbappe-post-clasico-interview.json",
+    "items/20261026-official-lunin-post-clasico-interview.json",
+    "items/20261026-official-mbappe-100-goals-breakdown.json",
     "items/20261026-official-clasico-final-real-madrid-2-1-mbappe-100.json",
     "items/20261026-clasico-referee-cancelo-diomande-mourinho-contrasting-assessments.json",
     "items/20261026-valverde-thigh-discomfort-clasico-no-official-injury.json",
