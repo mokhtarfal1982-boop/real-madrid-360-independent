@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-26T00:58:00+03:00",
+  "updatedAt": "2026-10-26T01:55:00+03:00",
   "news": [
+    "items/20261026-official-clasico-final-real-madrid-2-1-mbappe-100.json",
+    "items/20261026-clasico-referee-cancelo-diomande-mourinho-contrasting-assessments.json",
+    "items/20261026-valverde-thigh-discomfort-clasico-no-official-injury.json",
     "items/20261026-clasico-mbappe-second-goal-87-live-2-1.json",
     "items/20261026-clasico-halftime-mbappe-41-real-madrid-leads.json",
     "items/20261025-lunin-father-message-before-clasico.json",
