@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-26T21:58:00+03:00",
+  "updatedAt": "2026-10-26T23:01:00+03:00",
   "news": [
+    "items/20261026-ballon-dor-official-confirms-mbappe-cucurella-diomande-arrival.json",
+    "items/20261026-ballon-dor-ceremony-delayed-2330-saudi-mbappe.json",
     "items/20261026-official-bellingham-eleventh-ballon-dor-2026.json",
     "items/20261026-ballon-dor-vinicius-17-cucurella-18.json",
     "items/20261026-as-mourinho-clasico-neutralized-flick-plan.json",
