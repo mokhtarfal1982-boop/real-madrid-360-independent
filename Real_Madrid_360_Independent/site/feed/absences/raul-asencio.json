@@ -1,1 +1,10 @@
-{"name":"راؤول أسينسيو","kind":"injured","status":"كسر إجهادي في الساق","detail":"خضع لجراحة، وغيابه يقارب 3 أشهر.","source":{"label":"Sports Mole","url":"https://www.sportsmole.co.uk/football/real-madrid/injury-news/injuries-and-suspensions/vinicius-militao-rodrygo-updates-real-madrid-injury-suspension-news-vs-sevilla_606939.html"}}
+{
+  "name": "راؤول أسينسيو",
+  "kind": "injured",
+  "status": "يتعافى من جراحة شرخ بالساق — لم يحصل على تصريح طبي بالعودة",
+  "detail": "خضع لجراحة في 1 أكتوبر 2026؛ استغنى مؤخرًا عن العكازات وبدأ ملامسة العشب. يستهدف المشاركة في دور الـ32 من كأس الملك منتصف ديسمبر، وهو موعد متوقع صحفيًا وليس إعلانًا طبيًا رسميًا.",
+  "source": {
+    "label": "صحيفة آس — 26 أكتوبر 2026",
+    "url": "https://as.com/futbol/primera/asencio-tambien-disfruto-en-el-clasico-f202610-n/"
+  }
+}
