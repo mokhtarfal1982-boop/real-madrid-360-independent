@@ -1,7 +1,11 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-27T22:04:00+03:00",
+  "updatedAt": "2026-10-28T02:00:00+03:00",
   "news": [
+    "items/20261028-mbappe-china-controversy-us-congressman-support.json",
+    "items/20261028-real-madrid-tv-ballon-dor-clasico-sarcastic-coverage.json",
+    "items/20261028-dumfries-reported-ultimatum-real-madrid-right-back.json",
+    "items/20261028-laliga-official-diomande-real-madrid-video.json",
     "items/20261027-rfef-referee-review-two-clasico-incidents-minutes-57-70.json",
     "items/20261027-official-mbappe-best-goals-video-100-milestone.json",
     "items/20261027-valverde-tests-no-serious-hamstring-injury.json",
