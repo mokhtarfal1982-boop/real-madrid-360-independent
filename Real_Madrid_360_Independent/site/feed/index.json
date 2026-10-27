@@ -1,7 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-28T02:00:00+03:00",
+  "updatedAt": "2026-10-28T02:55:00+03:00",
   "news": [
+    "items/20261028-mourinho-collective-defending-clasico-elimparcial.json",
+    "items/20261028-as-hermel-mourinho-clasico-experience-opinion.json",
+    "items/20261028-sky-germany-macallister-real-madrid-interest.json",
     "items/20261028-mbappe-china-controversy-us-congressman-support.json",
     "items/20261028-real-madrid-tv-ballon-dor-clasico-sarcastic-coverage.json",
     "items/20261028-dumfries-reported-ultimatum-real-madrid-right-back.json",
