@@ -56,7 +56,13 @@
     var out = [], seen = {}, sw = 0, sl = 0, sd = 0, sgf = 0, sga = 0, withGoals = 0;
     for (var i = 0; i < rows.length; i++) {
       var r = rows[i];
-      if (!r || r.r !== i + 1 || !CODE.test(r.t || '') || seen[r.t]) return null;
+      if (!r || !CODE.test(r.t || '') || seen[r.t]) return null;
+      // UEFA may give the same official position to teams tied on all active ranking criteria.
+      var prev = i > 0 ? rows[i - 1] : null;
+      var tied = prev && r.r === prev.r && r.pts === prev.pts &&
+        typeof r.gf === 'number' && typeof prev.gf === 'number' &&
+        r.gf === prev.gf && (r.gf - r.ga) === (prev.gf - prev.ga);
+      if (r.r !== i + 1 && !tied) return null;
       if (!int(r.p, 60) || !int(r.w, 60) || !int(r.d, 60) || !int(r.l, 60) || !int(r.pts, 200)) return null;
       if (r.w + r.d + r.l !== r.p || r.pts > 3 * r.w + r.d) return null;
       var row = { r: r.r, t: r.t, p: r.p, w: r.w, d: r.d, l: r.l, pts: r.pts };
