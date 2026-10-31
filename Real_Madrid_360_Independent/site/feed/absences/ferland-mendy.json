@@ -1,1 +1,10 @@
-{"name":"فيرلاند ميندي","kind":"injured","status":"مصاب","detail":"قد يغيب حتى أواخر 2026.","source":{"label":"Sports Mole","url":"https://www.sportsmole.co.uk/football/real-madrid/injury-news/injuries-and-suspensions/vinicius-militao-rodrygo-updates-real-madrid-injury-suspension-news-vs-sevilla_606939.html"}}
+{
+  "name": "فيرلان ميندي",
+  "kind": "injured",
+  "status": "غير متاح لمواجهة راسينغ وفق التغطية الصحفية",
+  "detail": "ذكرته صحيفة آس يوم 31 أكتوبر 2026 ضمن غيابات ريال مدريد أمام راسينغ. سبق أن عاد إلى التدريبات الجماعية خلال مرحلة التعافي، لكن ذلك لا يثبت حصوله على التصريح الطبي النهائي. لا يوجد موعد عودة مؤكد من النادي.",
+  "source": {
+    "label": "آس — 31 أكتوبر 2026",
+    "url": "https://as.com/futbol/primera/valverde-seria-duda-para-el-racing-f202610-n/"
+  }
+}
