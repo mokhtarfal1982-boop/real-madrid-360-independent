@@ -1,6 +1,6 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-31T16:00:11.000Z",
+  "updatedAt": "2026-10-31T16:58:54.000Z",
   "news": [
     "items/20261031-as-valverde-misses-final-training-racing-travel-doubt.json",
     "items/20261031-rfef-official-munuera-racing-real-madrid-referee.json",
@@ -291,7 +291,8 @@
   "absences": [
     "absences/raul-asencio.json",
     "absences/rodrygo.json",
-    "absences/vinicius-junior.json"
+    "absences/vinicius-junior.json",
+    "absences/ferland-mendy.json"
   ],
   "notes": [
     "notes/72478640.json"
