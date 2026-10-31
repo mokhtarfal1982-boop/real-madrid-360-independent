@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-10-31T16:58:54.000Z",
+  "updatedAt": "2026-10-31T18:04:31.000Z",
   "news": [
+    "items/20261031-official-real-madrid-racing-squad-valverde-out.json",
     "items/20261031-as-valverde-misses-final-training-racing-travel-doubt.json",
     "items/20261031-rfef-official-munuera-racing-real-madrid-referee.json",
     "items/20261031-as-mourinho-racing-press-first-questions.json",
@@ -292,7 +293,8 @@
     "absences/raul-asencio.json",
     "absences/rodrygo.json",
     "absences/vinicius-junior.json",
-    "absences/ferland-mendy.json"
+    "absences/ferland-mendy.json",
+    "absences/federico-valverde.json"
   ],
   "notes": [
     "notes/72478640.json"
