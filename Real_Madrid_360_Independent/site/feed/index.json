@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-01T06:04:44.835Z",
+  "updatedAt": "2026-11-01T06:57:31.000Z",
   "news": [
+    "items/20261101-reuters-militao-home-burglary-reported.json",
+    "items/20261101-official-racing-ticket-controls-real-madrid-match.json",
     "items/20261101-official-racing-matchday-preview-sixth-straight-win.json",
     "items/20261031-as-real-madrid-scouted-inigo-vicente-racing-history.json",
     "items/20261031-official-real-madrid-arrival-santander-reception.json",
