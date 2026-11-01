@@ -1,8 +1,10 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-01T03:57:40.000Z",
+  "updatedAt": "2026-11-01T06:04:44.835Z",
   "news": [
     "items/20261101-official-racing-matchday-preview-sixth-straight-win.json",
+    "items/20261031-as-real-madrid-scouted-inigo-vicente-racing-history.json",
+    "items/20261031-official-real-madrid-arrival-santander-reception.json",
     "items/20261101-as-projected-racing-xi-dumfries-courtois-bernardo.json",
     "items/20261101-laliga-official-real-madrid-six-point-gap-before-racing.json",
     "items/20261031-official-lunin-bernardo-santander-fan-signing.json",
