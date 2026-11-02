@@ -1,15 +1,19 @@
 {
   "name": "تيبو كورتوا",
   "kind": "available",
-  "status": "ضمن القائمة الرسمية لمواجهة راسينغ سانتاندير 1 نوفمبر 2026 بعد غيابه عن الكلاسيكو بسبب الإنفلونزا؛ التشكيلة الأساسية غير معلنة",
-  "detail": "أكد ريال مدريد غياب كورتوا عن الكلاسيكو يوم 25 أكتوبر بسبب الإنفلونزا. ثم أدرجه النادي ضمن القائمة الرسمية لمواجهة راسينغ المنشورة يوم 31 أكتوبر، ما يثبت عودته لقائمة الاختيارات، دون تأكيد مشاركته أساسيًا أو إعلان طبي مستقل عن التعافي الكامل.",
+  "status": "عاد إلى التشكيلة الأساسية أمام راسينغ في 1 نوفمبر 2026 وحافظ على نظافة شباكه",
+  "detail": "بعد غيابه عن الكلاسيكو بسبب الإنفلونزا، أعلن ريال مدريد رسميًا وجود كورتوا ضمن التشكيلة الأساسية أمام راسينغ في 1 نوفمبر، وشارك قائدًا في الفوز 3-0. عادل بذلك رقم ميغيل أنخيل بـ346 مباراة للنادي. مشاركته تؤكد عودته للمباريات، ولا تعني وجود بيان طبي مستقل عن التعافي الكامل أو ضمان مشاركته أمام أيك أثينا.",
   "source": {
-    "label": "ريال مدريد — القائمة الرسمية أمام راسينغ (31 أكتوبر 2026)",
-    "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/convocatorias/convocatoria-del-real-madrid-contra-el-racing-31-10-2026"
+    "label": "ريال مدريد — التشكيلة الرسمية أمام راسينغ 1 نوفمبر 2026",
+    "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/once-inicial-del-real-madrid-frente-al-racing-01-11-2026"
   },
   "previousAbsenceSource": {
     "label": "ريال مدريد — غياب كورتوا عن الكلاسيكو (25 أكتوبر 2026)",
     "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/courtois-baja-de-ultima-hora-25-10-2026"
   },
-  "updatedAt": "2026-11-01T11:03:50Z"
+  "updatedAt": "2026-11-02T02:03:17Z",
+  "latestAppearanceSource": {
+    "label": "ريال مدريد — كورتوا يعادل رقم ميغيل أنخيل",
+    "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/courtois-iguala-a-miguel-angel-como-el-tercer-portero-con-mas-partidos-en-la-historia-del-real-madrid-01-11-2026"
+  }
 }
