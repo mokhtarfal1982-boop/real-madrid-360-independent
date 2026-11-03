@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-03T14:03:00.000Z",
+  "updatedAt": "2026-11-03T16:04:00.000Z",
   "news": [
+    "items/20261103-official-final-training-guler-tchouameni-individual.json",
+    "items/20261103-official-real-madrid-departs-athens.json",
     "items/20261103-official-aek-squad-guler-tchouameni-absent.json",
     "items/20261103-official-four-fifpro-world11-nominees.json",
     "items/20261103-eurosport-mourinho-highest-madrid-ucl-win-rate.json",
