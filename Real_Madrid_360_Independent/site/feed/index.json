@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-04T12:05:00.000Z",
+  "updatedAt": "2026-11-04T15:56:00.000Z",
   "news": [
+    "items/20261104-official-brahim-caf-player.json",
+    "items/20261104-official-diomande-caf-young-player.json",
     "items/20261104-official-allwyn-arena-first-visit.json",
     "items/20261104-official-aek-matchday-preview.json",
     "items/20261103-mourinho-aek-full-press-conference.json",
