@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-04T15:56:00.000Z",
+  "updatedAt": "2026-11-04T20:05:00Z",
   "news": [
+    "items/20261104-aek-real-madrid-final-3-2.json",
     "items/20261104-official-brahim-caf-player.json",
     "items/20261104-official-diomande-caf-young-player.json",
     "items/20261104-official-allwyn-arena-first-visit.json",
