@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-06T13:59:00Z",
+  "updatedAt": "2026-11-06T15:59:00Z",
   "news": [
+    "items/20261106-official-squad-valencia-23-players.json",
     "items/20261106-final-training-valencia-asencio-rodrygo.json",
     "items/20261106-mourinho-valencia-full-presser.json",
     "items/20261105-mourinho-27-points-11-games-historical-analysis.json",
