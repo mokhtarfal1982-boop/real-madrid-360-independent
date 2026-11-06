@@ -141,7 +141,7 @@
       var primary = cleanSource(it.source);
       var source = primary ? primary.label : cleanText(it.source, 100);
       var firstSource = Array.isArray(it.sources) ? it.sources.map(cleanSource).filter(function (x) { return x && x.url; })[0] : null;
-      var url = validUrl(it.url || (primary && primary.url) || (firstSource && firstSource.url) || '');
+      var url = validUrl(it.url || (primary && primary.url) || (firstSource && firstSource.url) || (typeof it.source === 'string' ? it.source : '') || '');
       var published = parseNewsDate(it.publishedAt || it.timestamp_utc || it.date);
       if (!title || title.length < 6 || !source || source.length < 2 || !url || !published || seen[title]) return;
       seen[title] = true;
