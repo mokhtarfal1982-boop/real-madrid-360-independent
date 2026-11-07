@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-06T21:03:00Z",
+  "updatedAt": "2026-11-07T00:03:00Z",
   "news": [
+    "items/20261107-real-madrid-valencia-official-match-preview.json",
+    "items/20261107-reported-valencia-projected-xi-valverde-rightback.json",
     "items/20261107-aguirre-record-vs-real-madrid-preview.json",
     "items/20261106-official-referees-valencia-real-madrid.json",
     "items/20261106-official-squad-valencia-23-players.json",
