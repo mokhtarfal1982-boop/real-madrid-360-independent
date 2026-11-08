@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-08T00:01:39Z",
+  "updatedAt": "2026-11-08T06:57:22Z",
   "news": [
+    "items/20261108-mbappe-seven-consecutive-guler-motm.json",
     "items/20261108-mourinho-post-valencia-official-presser.json",
     "items/20261107-valencia-real-madrid-final-3-0.json",
     "items/20261107-valencia-real-madrid-halftime-valverde-guler.json",
