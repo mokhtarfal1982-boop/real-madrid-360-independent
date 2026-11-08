@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-08T12:00:27Z",
+  "updatedAt": "2026-11-08T12:58:33Z",
   "news": [
+    "items/20261108-reported-halftime-tunnel-altercation.json",
+    "items/20261108-as-26-fouls-refereeing-concern.json",
     "items/20261108-as-vinicius-mourinho-support-no-guaranteed-start.json",
     "items/20261108-bernardo-valencia-referee-postmatch.json",
     "items/20261108-mbappe-seven-consecutive-guler-motm.json",
