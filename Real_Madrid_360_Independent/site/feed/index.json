@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-11T20:02:30Z",
+  "updatedAt": "2026-11-12T04:04:00Z",
   "news": [
+    "items/20261112-zidane-confirms-mbappe-italy-absence.json",
+    "items/20261112-espi-mourinho-mbappe-interview.json",
     "items/20261111-tchouameni-france-adductor-return.json",
     "items/20261111-mbappe-france-hamstring-doubt.json",
     "items/20261111-official-second-training-asencio-rodrygo.json",
