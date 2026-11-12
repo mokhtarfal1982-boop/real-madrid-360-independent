@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-12T04:04:00Z",
+  "updatedAt": "2026-11-12T11:00:00Z",
   "news": [
+    "items/20261112-as-madrid-record-revenue-projection.json",
     "items/20261112-zidane-confirms-mbappe-italy-absence.json",
     "items/20261112-espi-mourinho-mbappe-interview.json",
     "items/20261111-tchouameni-france-adductor-return.json",
