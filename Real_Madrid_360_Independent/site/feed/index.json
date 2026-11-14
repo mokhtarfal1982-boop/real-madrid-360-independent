@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-14T03:02:00Z",
+  "updatedAt": "2026-11-14T04:02:00Z",
   "news": [
+    "items/20261114-as-jj-gabriel-training-transfer-rumor.json",
     "items/20261114-official-dumfries-three-goal-contributions.json",
     "items/20261114-official-brahim-morocco-assist.json",
     "items/20261113-reuters-zidane-mbappe-return-expected.json",
