@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-15T05:56:00Z",
+  "updatedAt": "2026-11-15T15:02:00Z",
   "news": [
+    "items/20261115-bernardo-silva-portugal-medical-withdrawal.json",
     "items/20261115-zidane-confirms-mbappe-available-turkey.json",
     "items/20261115-bernardo-portugal-late-goal.json",
     "items/20261114-courtois-nxtplay-reggiana-bid.json",
