@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-14T22:04:00Z",
+  "updatedAt": "2026-11-15T05:56:00Z",
   "news": [
+    "items/20261115-zidane-confirms-mbappe-available-turkey.json",
+    "items/20261115-bernardo-portugal-late-goal.json",
     "items/20261114-courtois-nxtplay-reggiana-bid.json",
     "items/20261114-official-valverde-32-minutes-uruguay.json",
     "items/20261114-rodrygo-early-december-return-report.json",
