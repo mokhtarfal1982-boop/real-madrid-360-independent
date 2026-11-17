@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-17T20:00:00Z",
+  "updatedAt": "2026-11-17T22:00:00Z",
   "news": [
+    "items/20261118-as-celta-two-players-return-ahead-madrid.json",
     "items/20261117-reuters-jj-gabriel-announces-departure.json",
     "items/20261117-official-first-training-celta-tchouameni-indoor.json",
     "items/20261117-sofascore-arda-guler-nations-league-rating.json",
