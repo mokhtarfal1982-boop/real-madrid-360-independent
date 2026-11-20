@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-20T14:00:00Z",
+  "updatedAt": "2026-11-20T15:03:00Z",
   "news": [
+    "items/20261120-official-referees-real-madrid-celta.json",
     "items/20261120-official-celta-squad-23-players.json",
     "items/20261120-official-mourinho-celta-press-conference.json",
     "items/20261120-official-fourth-training-celta.json",
