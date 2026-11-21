@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-21T11:40:00Z",
+  "updatedAt": "2026-11-21T19:57:00Z",
   "news": [
+    "items/20261121-official-lineup-celta-confirmed.json",
     "items/20261121-florentino-assembly-negreira-tebas.json",
     "items/20261121-referee-dossier-cordero-lopez-toca-evidence.json",
     "items/20261120-official-courtois-renewal-2028.json",
