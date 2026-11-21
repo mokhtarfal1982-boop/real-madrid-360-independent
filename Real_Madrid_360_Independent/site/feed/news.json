@@ -1,7 +1,337 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-10-20T06:07:57.576+00:00",
+  "updatedAt": "2026-11-21T03:56:35Z",
   "items": [
+    {
+      "id": "20261120-official-courtois-renewal-2028",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: ريال مدريد يجدد عقد تيبو كورتوا حتى 30 يونيو 2028",
+      "summary": "أعلن ريال مدريد يوم 20 نوفمبر 2026 تمديد عقد حارس مرماه البلجيكي تيبو كورتوا حتى 30 يونيو 2028. وبحسب البيان الرسمي، انضم كورتوا عام 2018 وخاض 348 مباراة بقميص النادي وتوج بـ14 لقبًا، منها لقبان في دوري أبطال أوروبا وثلاثة ألقاب للدوري الإسباني. ويمثل التجديد استمرارًا للحارس الأساسي ضمن مشروع الفريق، ولا يتضمن البيان أي تحديث طبي أو تأكيد للتشكيلة الأساسية أمام سيلتا فيغو.",
+      "body": [],
+      "source": "Real Madrid — comunicado oficial renovación de Courtois",
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-renovacion-de-courtois-20-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — comunicado oficial renovación de Courtois",
+          "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-renovacion-de-courtois-20-11-2026"
+        }
+      ],
+      "date": "2026-11-20",
+      "publishedAtSaudi": "2026-11-20",
+      "certainty": "مرتفعة",
+      "verificationNote": "تجديد عقود — بيان رسمي"
+    },
+    {
+      "id": "20261121-official-celta-matchday-preview-mbappe-streak",
+      "category": "news",
+      "contentType": "news",
+      "title": "ريال مدريد يطارد انتصاره التاسع تواليًا أمام سيلتا.. ومبابي سجل 9 أهداف في آخر 7 مباريات",
+      "summary": "نشر ريال مدريد يوم 21 نوفمبر تقديمه الرسمي لمواجهة سيلتا فيغو ضمن الجولة 13 من الدوري الإسباني، اليوم السبت الساعة 23:00 بتوقيت السعودية على ملعب سانتياغو برنابيو. يدخل فريق جوزيه مورينيو المباراة بعد 8 انتصارات متتالية في جميع المسابقات، ويبحث عن التاسع، في أول مباراة على ملعبه منذ شهر تقريبًا. وأبرز النادي أن كيليان مبابي سجل في آخر 7 مباريات لريال مدريد على التوالي، بإجمالي 9 أهداف، وأنه ضمن القائمة المستدعاة. وأكد مورينيو سعادته بعودة الفريق للعب في البرنابيو. الخبر تقديم رسمي وليس إعلانًا للتشكيلة الأساسية.",
+      "body": [],
+      "source": "Real Madrid — Real Madrid-Celta: regresa el fútbol al Bernabéu, 21 Nov 2026",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/previas/real-madrid-celta-a-por-la-novena-victoria-consecutiva-en-el-regreso-a-la-liga-21-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — Real Madrid-Celta: regresa el fútbol al Bernabéu, 21 Nov 2026",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/previas/real-madrid-celta-a-por-la-novena-victoria-consecutiva-en-el-regreso-a-la-liga-21-11-2026"
+        }
+      ],
+      "date": "2026-11-21T00:00:00Z",
+      "publishedAtSaudi": "2026-11-21T00:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "تقديم المباراة — رسمي"
+    },
+    {
+      "id": "20261120-celta-official-three-injury-absences-before-madrid",
+      "category": "news",
+      "contentType": "news",
+      "title": "ثلاثة غيابات مؤكدة في سيلتا قبل مواجهة ريال مدريد في البرنابيو",
+      "summary": "أعلن سيلتا فيغو في قائمته الرسمية الصادرة يوم 20 نوفمبر 2026 غياب كارل ستارفيلت وبورخا إغليسياس وميغيل رومان بسبب الإصابة عن مواجهة ريال مدريد يوم السبت 21 نوفمبر في سانتياغو برنابيو. تشمل الغيابات قلب دفاع ومهاجمًا ولاعب وسط، ما يؤثر في الخيارات المتاحة لمنافس ريال مدريد. القائمة المنشورة تضم 24 لاعبًا؛ ولا يجوز الجزم بتشكيل سيلتا الأساسي قبل الإعلان الرسمي. تتضمن صفحة سيلتا خطأً تحريريًا بشأن رقم الجولة والملعب، لذا اعتُمد موعد وملعب اللقاء من موقع ريال مدريد الرسمي.",
+      "body": [],
+      "source": "RC Celta — official squad 20 November 2026",
+      "url": "https://rccelta.es/equipo/actualidad/convocatoria-del-celta-para-su-visita-al-bernabeu/",
+      "sources": [
+        {
+          "name": "RC Celta — official squad 20 November 2026",
+          "url": "https://rccelta.es/equipo/actualidad/convocatoria-del-celta-para-su-visita-al-bernabeu/"
+        },
+        {
+          "name": "Real Madrid — official match schedule",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/el-real-madrid-celta-se-jugara-el-sabado-21-de-noviembre-a-las-21-00-horas-21-10-2026"
+        }
+      ],
+      "date": "2026-11-20T20:00:00Z",
+      "publishedAtSaudi": "2026-11-20T20:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "أخبار المنافس المباشر — قائمة رسمية"
+    },
+    {
+      "id": "20261120-official-referees-real-madrid-celta",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: كورديرو فيغا حكمًا لريال مدريد وسيلتا ولوبيز توكا في تقنية الفيديو",
+      "summary": "أعلن الاتحاد الإسباني طاقم تحكيم مباراة ريال مدريد وسيلتا فيغو السبت 21 نوفمبر 2026 الساعة 23:00 بتوقيت السعودية. حكم الساحة أدريان كورديرو فيغا، مساعداه إسرائيل بارثينا وصامويل غارسيا، الحكم الرابع مانويل كاماتشو، حكم الفيديو خوسيه أنطونيو لوبيز توكا، ومساعد الفيديو غييرمو كوادرا. بحسب دياريو مدريدستا أدار كورديرو فيغا ست مباريات سابقة لريال مدريد، خمسًا في الدوري (3 انتصارات وتعادل وخسارة) ومباراة في الكأس. آخر مباراة أدارها للفريق كانت أمام أوساسونا في 19 أغسطس 2025. هذه النتائج لا تثبت انحيازًا، ولم تُتحقق في هذا التقرير حالات تحكيمية محددة أو إحصاءات قرارات VAR؛ لا يجوز اختلاقها.",
+      "body": [
+        "التعيين مثبت بوثيقة لجنة الحكام بالاتحاد الإسباني المؤرخة 19 نوفمبر والمنشورة قبل المباراة. لا تُعد القائمة الأساسية أو طاقم التحكيم قابلين للتبديل دون بيان رسمي. السجل الصحفي المذكور يخص حكم الساحة فقط، ولم يكتمل توثيق سجل حكم الفيديو مع ريال مدريد أو الحالات المثيرة للجدل، ولذلك يُمتنع عن إطلاق أحكام على النزاهة من حصيلة النتائج."
+      ],
+      "source": "RFEF CTA — jornada 13, 19 November 2026",
+      "url": "https://rfef.es/sites/default/files/designaciones_1a_division_masculina_-_temp_2026-27_-_jornada_13_sabado_0.pdf?cb=2a26a8c1",
+      "sources": [
+        {
+          "name": "RFEF CTA — jornada 13, 19 November 2026",
+          "url": "https://rfef.es/sites/default/files/designaciones_1a_division_masculina_-_temp_2026-27_-_jornada_13_sabado_0.pdf?cb=2a26a8c1"
+        },
+        {
+          "name": "Diario Madridista — Cordero Vega record, 20 November 2026",
+          "url": "https://okdiario.com/diariomadridista/real-madrid/cordero-vega-arbitrara-real-madrid-15-meses-despues-678558"
+        }
+      ],
+      "date": "2026-11-20T15:03:00Z",
+      "publishedAtSaudi": "2026-11-20T15:03:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "التحكيم — تعيين رسمي"
+    },
+    {
+      "id": "20261120-official-celta-squad-23-players",
+      "category": "news",
+      "contentType": "news",
+      "title": "ريال مدريد يعلن قائمته الرسمية أمام سيلتا: عودة فالفيردي وتشواميني وبرناردو وغياب ميندي",
+      "summary": "أعلن ريال مدريد رسميًا يوم 20 نوفمبر قائمة من 24 لاعبًا لمواجهة سيلتا فيغو يوم السبت 21 نوفمبر عند الساعة 23:00 بتوقيت السعودية في سانتياغو برنابيو. الحراس: كورتوا، لونين، ميستري. الدفاع: ميليتاو، هويسن، ترينت، كوناتي، كوكوريّا، ألفارو كاريراس، روديغر، دومفريس. الوسط: بيلينغهام، كامافينغا، فالفيردي، تشواميني، أردا غولر، برناردو سيلفا، تياغو. الهجوم: فينيسيوس، إندريك، مبابي، سي إيسبي، إبراهيم دياز، يان ديوماندي. غاب عن القائمة فيرلان ميندي وراؤول أسينسيو ورودريغو. هذه قائمة المباراة وليست التشكيلة الأساسية، ولا يؤكد عدم استدعاء ميندي إصابة جديدة.",
+      "body": [],
+      "source": "Real Madrid — official Celta squad, 20 November 2026",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/convocatorias/convocatoria-del-real-madrid-ante-el-celta-20-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — official Celta squad, 20 November 2026",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/convocatorias/convocatoria-del-real-madrid-ante-el-celta-20-11-2026"
+        }
+      ],
+      "date": "2026-11-20T14:00:00Z",
+      "publishedAtSaudi": "2026-11-20T14:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "قائمة المباراة — رسمي"
+    },
+    {
+      "id": "20261120-official-mourinho-celta-press-conference",
+      "category": "news",
+      "contentType": "news",
+      "title": "مورينيو قبل سيلتا: لا امتيازات لفينيسيوس وتشواميني وبرناردو وفالفيردي جاهزون",
+      "summary": "في المؤتمر الصحفي الرسمي يوم 20 نوفمبر، أكد مورينيو أن تشواميني وبرناردو سيلفا وفالفيردي جميعهم متاحون للمشاركة دون ضمان الدفع بهم، وأن فالفيردي خاض أول تدريب بعد عودته اليوم. وصف سيلتا بأنه منظم دفاعيًا ويستحق نقاطًا أكثر، وأكد أن الفريق سعيد بالعودة إلى البرنابيو. شدد على أن فينيسيوس لاعب استثنائي ومهم لكنه لا يحظى بحق المشاركة تلقائيًا، وأنه يريد قائمة واسعة لا أحد عشر لاعبًا فقط. أوضح حاجته إلى إندريك واعتبر تطور أردا غولر طبيعيًا. أشار إلى ثلاثة لقاءات خلال ثمانية أيام وإلى أهمية تعافي اللاعبين وروح المجموعة. هذا ملخص محاور المؤتمر المنشور رسميًا، وليس تفريغًا حرفيًا لكل الأسئلة.",
+      "body": [],
+      "source": "Real Madrid — Mourinho press conference 20 November",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rp-mourinho-pre-rm-celta-20-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — Mourinho press conference 20 November",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/ruedas-de-prensa/rp-mourinho-pre-rm-celta-20-11-2026"
+        }
+      ],
+      "date": "2026-11-20T11:02:00Z",
+      "publishedAtSaudi": "2026-11-20T11:02:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "مؤتمر صحفي — رسمي"
+    },
+    {
+      "id": "20261120-official-fourth-training-celta",
+      "category": "news",
+      "contentType": "news",
+      "title": "ريال مدريد يجري الحصة التدريبية الرابعة قبل استقبال سيلتا",
+      "summary": "أكد النادي يوم 20 نوفمبر إقامة الحصة التدريبية الرابعة هذا الأسبوع في المدينة الرياضية استعدادًا لمواجهة سيلتا يوم السبت 21 نوفمبر الساعة 23:00 بتوقيت السعودية. لم يورد التقرير الأولي تفاصيل طبية أو تشكيلة رسمية. وأكد مورينيو في مؤتمره الصحفي أن جميع الدوليين عادوا وأن فالفيردي يتدرب اليوم للمرة الأولى بعد رحلته.",
+      "body": [],
+      "source": "Real Madrid — Training 20 November",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-20-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — Training 20 November",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-20-11-2026"
+        }
+      ],
+      "date": "2026-11-20T11:02:00Z",
+      "publishedAtSaudi": "2026-11-20T11:02:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "تدريبات — رسمي"
+    },
+    {
+      "id": "20261120-as-mendy-possible-return-celta",
+      "category": "news",
+      "contentType": "news",
+      "title": "تقارير: ميندي مرشح للعودة إلى قائمة ريال مدريد أمام سيلتا بعد غياب طويل",
+      "summary": "ذكرت صحيفة آس الإسبانية مساء 19 نوفمبر، نقلًا عن ليكيب الفرنسية، أن فيرلان ميندي قد يعود إلى قائمة جوزيه مورينيو لمواجهة سيلتا فيغو يوم 21 نوفمبر بعد نحو ستة أشهر من جراحة وتر العضلة المستقيمة الفخذية في ساقه اليمنى يوم 11 مايو. شارك المدافع في تدريبات فردية مطلع أكتوبر ثم انضم إلى المجموعة. لم يعلن ريال مدريد قائمة المباراة بعد، ولا تعني إمكانية استدعائه تأكيد مشاركته.",
+      "body": [],
+      "source": "AS — Mendy podría entrar en la lista contra el Celta",
+      "url": "https://as.com/futbol/primera/mendy-podria-entrar-en-la-lista-contra-el-celta-f202611-n/",
+      "sources": [
+        {
+          "name": "AS — Mendy podría entrar en la lista contra el Celta",
+          "url": "https://as.com/futbol/primera/mendy-podria-entrar-en-la-lista-contra-el-celta-f202611-n/"
+        }
+      ],
+      "date": "2026-11-19T22:21:00Z",
+      "publishedAtSaudi": "2026-11-19T22:21:00Z",
+      "certainty": "متوسطة",
+      "verificationNote": "جاهزية اللاعبين — غير مؤكد"
+    },
+    {
+      "id": "20261119-official-bellingham-mahou-october-award",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: بيلينغهام يتسلم جائزة لاعب ريال مدريد لشهر أكتوبر",
+      "summary": "أعلن ريال مدريد يوم 19 نوفمبر 2026 تسلم جود بيلينغهام جائزة «لاعب خمسة نجوم ماهو» لشهر أكتوبر، تقديرًا لمستواه في الشهر الذي شارك فيه في جميع مباريات الفريق الخمس وانتهت كلها بالفوز. الجائزة تكريم لأداء الشهر الماضي وليست إعلانًا عن تجديد عقد أو تغيير في جاهزية اللاعب.",
+      "body": [],
+      "source": "Real Madrid official — Bellingham Mahou award, 19 November 2026",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/bellingham-jugador-cinco-estrellas-mahou-de-octubre-19-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid official — Bellingham Mahou award, 19 November 2026",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/bellingham-jugador-cinco-estrellas-mahou-de-octubre-19-11-2026"
+        }
+      ],
+      "date": "2026-11-19T18:00:00Z",
+      "publishedAtSaudi": "2026-11-19T18:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "جوائز اللاعبين — رسمي"
+    },
+    {
+      "id": "20261119-official-tchouameni-renewal-2032",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: ريال مدريد يمدد عقد أوريلين تشواميني حتى 30 يونيو 2032",
+      "summary": "أعلن ريال مدريد في 19 نوفمبر 2026 تمديد عقد لاعب الوسط الفرنسي أوريلين تشواميني حتى 30 يونيو 2032. وذكر البيان أن اللاعب انضم في 2022، وخاض 205 مباريات وتوج بثمانية ألقاب مع النادي. هذا إعلان تعاقدي رسمي ولا يعني إعلان جاهزيته الطبية لمواجهة سيلتا فيغو؛ إذ لم يحدد البيان موقفه من المشاركة.",
+      "body": [],
+      "source": "Real Madrid official — Tchouameni renewal 19 November 2026",
+      "url": "https://www.realmadrid.com/fr-FR/actualites/club/announcements/comunicado-oficial-renovacion-de-tchouameni-19-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid official — Tchouameni renewal 19 November 2026",
+          "url": "https://www.realmadrid.com/fr-FR/actualites/club/announcements/comunicado-oficial-renovacion-de-tchouameni-19-11-2026"
+        }
+      ],
+      "date": "2026-11-19T15:00:00Z",
+      "publishedAtSaudi": "2026-11-19T15:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "تجديد عقود — بيان رسمي"
+    },
+    {
+      "id": "20261119-official-internationals-return-valverde-pending",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: مورينيو يستعيد معظم الدوليين قبل سيلتا وفالفيردي لم ينضم بعد",
+      "summary": "أكد ريال مدريد في 19 نوفمبر عودة معظم اللاعبين الدوليين إلى التدريبات، باستثناء فيديريكو فالفيردي الذي لا يزال في رحلة العودة. تضمنت الحصة الثالثة عملًا تكتيكيًا وتمارين ضغط ومباريات مصغرة. يواصل راؤول أسينسيو ورودريغو برنامجي التعافي. لم يعلن النادي التشكيلة أو جاهزية جميع اللاعبين للمباراة.",
+      "body": [],
+      "source": "Real Madrid — 19 November training",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-real-madrid-se-esta-entrenando-19-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — 19 November training",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-real-madrid-se-esta-entrenando-19-11-2026"
+        }
+      ],
+      "date": "2026-11-19T12:00:00Z",
+      "publishedAtSaudi": "2026-11-19T12:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "تدريبات وجاهزية — رسمي"
+    },
+    {
+      "id": "20261119-sport-bellingham-contract-offer-report",
+      "category": "news",
+      "contentType": "news",
+      "title": "تقارير: ريال مدريد يدرس تحسين عقد بيلينغهام رغم استمراره حتى 2029",
+      "summary": "نقلت صحيفة The Scottish Sun مساء 18 نوفمبر عن صحيفة Sport الإسبانية أن ريال مدريد يدرس تقديم عرض جديد لجود بيلينغهام لتحسين شروط عقده الذي يستمر حتى يونيو 2029، في إطار الاحتفاظ بالركائز الشابة. لم يعلن ريال مدريد أو اللاعب بدء مفاوضات أو الاتفاق على تمديد، كما لم يتسن التحقق مباشرة من تقرير Sport الأصلي؛ لذلك يُعامل الخبر بوصفه شائعة غير مؤكدة منخفضة الثقة، ولا تُعد الأرقام المالية المتداولة شروطًا معتمدة.",
+      "body": [],
+      "source": "The Scottish Sun citing Sport — 18 November 2026",
+      "url": "https://www.thescottishsun.co.uk/sport/17085992/jude-bellingham-real-madrid-contract/",
+      "sources": [
+        {
+          "name": "The Scottish Sun citing Sport — 18 November 2026",
+          "url": "https://www.thescottishsun.co.uk/sport/17085992/jude-bellingham-real-madrid-contract/"
+        }
+      ],
+      "date": "2026-11-18T20:57:00Z",
+      "publishedAtSaudi": "2026-11-18T20:57:00Z",
+      "certainty": "متوسطة",
+      "verificationNote": "انتقالات وعقود — غير مؤكد"
+    },
+    {
+      "id": "20261118-official-second-training-bernardo-tchouameni-indoor",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: تشواميني وبرناردو سيلفا يتدربان داخل المرافق قبل مواجهة سيلتا",
+      "summary": "أكد ريال مدريد في تقرير الحصة الثانية يوم 18 نوفمبر أن تشواميني وبرناردو سيلفا عملا داخل المرافق، بينما واصل أسينسيو ورودريغو التأهيل. شارك المتاحون مع لاعبي الأكاديمية في تدريبات بدنية واستحواذ واسترجاع الكرة ومباريات مصغرة. لم يعلن النادي استبعاد أي منهم من مباراة سيلتا.",
+      "body": [],
+      "source": "Real Madrid — training 18 November",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-18-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — training 18 November",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-18-11-2026"
+        }
+      ],
+      "date": "2026-11-18T16:00:00Z",
+      "publishedAtSaudi": "2026-11-18T16:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "تدريبات وإصابات — رسمي"
+    },
+    {
+      "id": "20261118-rudiger-athletic-interview-vinicius-mourinho",
+      "category": "news",
+      "contentType": "news",
+      "title": "روديغر يدعم فينيسيوس ويكشف دور مورينيو في استمراره مع ريال مدريد",
+      "summary": "في مقابلة مع The Athletic نقلها Managing Madrid يوم 18 نوفمبر، قال روديغر إن فينيسيوس يعمل بجد لاستعادة أفضل مستوياته بدنيًا وذهنيًا. وكشف أن مورينيو اتصل به نهاية الموسم الماضي وأبلغه رغبته في بقائه، ودافع عن مبابي أمام مطالبته بأداء أدوار دفاعية مماثلة للمدافعين. وقال إن وضعه الحالي جيد وإن التفكير في 2027 سابق لأوانه. وأقر بخطئه في واقعة رمي الثلج باتجاه الحكم في نهائي كأس الملك 2025، مؤكدًا اعتذاره. هذه أبرز المحاور المنقولة وليست تفريغًا كاملًا للأسئلة والأجوبة.",
+      "body": [],
+      "source": "Managing Madrid citing The Athletic — 18 November",
+      "url": "https://www.managingmadrid.com/real-madrid-cf-players/115559/antonio-rudiger-we-need-vinicius-at-his-best-physically-and-mentally",
+      "sources": [
+        {
+          "name": "Managing Madrid citing The Athletic — 18 November",
+          "url": "https://www.managingmadrid.com/real-madrid-cf-players/115559/antonio-rudiger-we-need-vinicius-at-his-best-physically-and-mentally"
+        }
+      ],
+      "date": "2026-11-18T14:59:00Z",
+      "publishedAtSaudi": "2026-11-18T14:59:00Z",
+      "certainty": "متوسطة",
+      "verificationNote": "تصريحات ومقابلات — نقل صحفي"
+    },
+    {
+      "id": "20261117-official-mourinho-university-interview",
+      "category": "news",
+      "contentType": "news",
+      "title": "مورينيو: ريال مدريد بيتي ورحلت في 2013 حبًا بالنادي",
+      "summary": "في حوار رسمي خلال افتتاح العام الدراسي 2026/27 لمدرسة ريال مدريد الجامعية يوم 17 نوفمبر، قال جوزيه مورينيو إنه ظل يشعر بأن ريال مدريد بيته طوال 13 عامًا بعيدًا عنه، وإنه غادر في 2013 لأنه اعتقد أن الفريق لم يعد بحاجة إلى أسلوبه آنذاك. وأوضح أن مكانة النادي تقوم على ألقابه ومبادئه، وتحدث عن عزلة المدرب وصعوبة إظهار نقاط الضعف، وعن تعلق والده بريال مدريد ودي ستيفانو. النص الرسمي يعرض محاور مختارة ولا ينقل كل أسئلة الطلاب.",
+      "body": [],
+      "source": "Real Madrid — 17 November 2026",
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/ue-real-madrid/mourinho-en-la-apertura-del-curso-2026-27-de-la-escuela-universitaria-real-madrid-universidad-europea-17-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid — 17 November 2026",
+          "url": "https://www.realmadrid.com/es-ES/noticias/club/ue-real-madrid/mourinho-en-la-apertura-del-curso-2026-27-de-la-escuela-universitaria-real-madrid-universidad-europea-17-11-2026"
+        }
+      ],
+      "date": "2026-11-17T12:00:00Z",
+      "publishedAtSaudi": "2026-11-17T12:00:00Z",
+      "certainty": "متوسطة",
+      "verificationNote": "تصريحات ومقابلات — رسمي"
+    },
+    {
+      "id": "20261118-official-arda-guler-renewal-2032",
+      "category": "news",
+      "contentType": "news",
+      "title": "رسميًا: ريال مدريد يجدد عقد أردا غولر حتى 30 يونيو 2032",
+      "summary": "أعلن ريال مدريد رسميًا في 18 نوفمبر 2026 تمديد عقد أردا غولر حتى 30 يونيو 2032. وذكر النادي أن اللاعب خاض 126 مباراة بقميصه وتوج بخمسة ألقاب، وحصل في سبتمبر على جائزة اللاعب الواعد بدوري أبطال أوروبا 2025-2026. التجديد يحسم استمراره تعاقديًا ولا يتضمن إعلانًا عن راتبه أو شرطه الجزائي.",
+      "body": [],
+      "source": "Real Madrid official — Arda Güler contract extension, 18 November 2026",
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-renovacion-arda-guler-18-11-2026",
+      "sources": [
+        {
+          "name": "Real Madrid official — Arda Güler contract extension, 18 November 2026",
+          "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-renovacion-arda-guler-18-11-2026"
+        }
+      ],
+      "date": "2026-11-18T12:00:00Z",
+      "publishedAtSaudi": "2026-11-18T12:00:00Z",
+      "certainty": "مرتفعة",
+      "verificationNote": "تجديد عقود — بيان رسمي"
+    },
     {
       "id": "20261020-guler-mourinho-central-midfield",
       "category": "analysis",
