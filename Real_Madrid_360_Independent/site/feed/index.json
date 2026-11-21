@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-21T22:00:00Z",
+  "updatedAt": "2026-11-21T23:00:00Z",
   "news": [
+    "items/20261121-real-madrid-celta-final-2-1-espi-comeback.json",
     "items/20261121-celta-mbappe-penalty-miss-bellingham-equalizer-live.json",
     "items/20261121-celta-pablo-duran-early-goal-live.json",
     "items/20261121-official-lineup-celta-confirmed.json",
