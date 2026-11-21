@@ -115,7 +115,7 @@
   function pathList(v, max) { return (Array.isArray(v) ? v : []).filter(okPath).slice(0, max); }
   function index() {
     return R.fetchJSON(BASES[0] + 'index.json', 6000).then(function (j) { return { j: j, base: BASES[0] }; })
-      .catch(function () { return R.fetchJSON(BASES[1] + 'index.json', 6000).then(function (j) { return { j: j, base: BASES[1] }; }); });
+      .catch(function () { throw new Error('live feed unavailable'); });
   }
 
   R.loadFeed = function () {
