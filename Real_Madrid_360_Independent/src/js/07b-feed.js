@@ -3,7 +3,7 @@
 (function (R) {
   'use strict';
   var D = R.D;
-  var BASES = ['/feed/'];
+  var BASES = ['/feed/', '/feed/'];
   var CODE = /^[A-Z0-9]{2,4}$/, ID = /^[0-9]{4,12}$/, PATH = /^[a-z0-9][a-z0-9_\/.\-]{0,150}\.json$/;
 
   function int(v, max) { return typeof v === 'number' && isFinite(v) && v >= 0 && v <= max && Math.floor(v) === v; }
