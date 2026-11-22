@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-22T02:00:00Z",
+  "updatedAt": "2026-11-22T09:00:00Z",
   "news": [
+    "items/20261122-guler-vinicius-celta-progressive-play-analysis.json",
     "items/20261121-courtois-post-celta-halftime-talk.json",
     "items/20261121-espi-post-celta-official-reaction.json",
     "items/20261121-bellingham-100-laliga-milestone.json",
