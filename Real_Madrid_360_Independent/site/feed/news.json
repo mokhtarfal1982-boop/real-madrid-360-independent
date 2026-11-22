@@ -1,7 +1,77 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-11-22T00:03:00Z",
+  "updatedAt": "2026-11-22T02:00:00Z",
   "items": [
+    {
+      "id": "20261121-courtois-post-celta-halftime-talk",
+      "title": "كورتوا: حديث مورينيو بين الشوطين غيّر أداء ريال مدريد",
+      "summary": "كورتوا ينتقد الشوط الأول ويشيد بتدخل المدرب وتصديين حاسمين ودور فينيسيوس وإسبي في الفوز.",
+      "body": [
+        "قال تيبو كورتوا في مقابلة رسمية مع قناة النادي إن حديث مورينيو بين الشوطين كان من مفاتيح الفوز، وإن ريال مدريد لم يركض أو ينفذ أساسيات اللعب كما ينبغي في الشوط الأول.",
+        "شرح الحارس تصديين حاسمين؛ جاء الثاني قبل التعادل بنحو 30 ثانية، وأشاد ببيلينغهام وفينيسيوس وكارلوس إسبي.",
+        "اعتبر أن إسبي مهاجم منطقة جزاء يوفر حضورًا مختلفًا، وأن هدف الفوز جاء بعد عرضية فينيسيوس وتصدي الحارس لتسديدة إسبي ثم متابعة الكرة المرتدة.",
+        "قال إن الفريق يريد الفوز بمباراته الخامسة من خمس في دوري الأبطال يوم الثلاثاء، لكنه شدد على ضرورة تحسين الأداء."
+      ],
+      "category": "تصريحات",
+      "contentType": "news",
+      "source": "ريال مدريد — الموقع الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/declaraciones-jugador-2-post-real-madrid-celta-j13-liga-21-11-2026",
+      "date": "2026-11-22T05:00:00+03:00",
+      "publishedAtSaudi": "2026-11-22T05:00:00+03:00",
+      "certainty": "مؤكد رسميًا",
+      "sources": [
+        {
+          "name": "ريال مدريد",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/declaraciones-jugador-2-post-real-madrid-celta-j13-liga-21-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261121-espi-post-celta-official-reaction",
+      "title": "كارلوس إسبي بعد هدف الفوز: سأستغل كل دقيقة يمنحني إياها المدرب",
+      "summary": "إسبي يشكر جمهور البرنابيو ويؤكد أهمية وحدة المجموعة قبل مواجهة الثلاثاء الأوروبية.",
+      "body": [
+        "قال كارلوس إسبي بعد تسجيل هدف الفوز على سيلتا إنه يشعر بقشعريرة من محبة الجمهور وإنه سيبذل أقصى جهده كلما منحه مورينيو دقائق للعب.",
+        "أكد أن البدلاء دخلوا مستعدين لحسم المباراة وأن اللاعبين الـ23 أو الـ24 يجب أن يسيروا في اتجاه واحد.",
+        "وصف الفوز التاسع المتتالي بأنه دفعة معنوية، وأكد ضرورة التركيز على مباراة دوري الأبطال يوم الثلاثاء بعد يومين من التحضير."
+      ],
+      "category": "تصريحات",
+      "contentType": "news",
+      "source": "ريال مدريد — الموقع الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/declas-jugador-1-post-real-madrid-celta-j13-liga-21-11-2026",
+      "date": "2026-11-22T05:00:00+03:00",
+      "publishedAtSaudi": "2026-11-22T05:00:00+03:00",
+      "certainty": "مؤكد رسميًا",
+      "sources": [
+        {
+          "name": "ريال مدريد",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/declas-jugador-1-post-real-madrid-celta-j13-liga-21-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261121-bellingham-100-laliga-milestone",
+      "title": "بيلينغهام يسجل في مباراته رقم 100 بالدوري مع ريال مدريد",
+      "summary": "النادي يوثق 72 فوزًا و38 هدفًا لبيلينغهام خلال أول 100 مباراة له بالدوري.",
+      "body": [
+        "أكد ريال مدريد رسميًا أن جود بيلينغهام خاض أمام سيلتا مباراته رقم 100 في الدوري الإسباني مع النادي وسجل خلالها هدف التعادل.",
+        "حقق بيلينغهام 72 انتصارًا وسجل 38 هدفًا خلال أول 100 مباراة بالدوري، بينما بلغ إجمالي مبارياته مع ريال مدريد في كل المسابقات 157 مباراة، وحصد خمسة ألقاب.",
+        "شارك لاعب الوسط في المباراة كاملة، ليصل إلى هذا الإنجاز في موسمه الرابع مع النادي."
+      ],
+      "category": "إحصائيات",
+      "contentType": "news",
+      "source": "ريال مدريد — الموقع الرسمي",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/bellingham-100-partidos-de-liga-con-el-real-madrid-21-11-2026",
+      "date": "2026-11-22T05:00:00+03:00",
+      "publishedAtSaudi": "2026-11-22T05:00:00+03:00",
+      "certainty": "مؤكد رسميًا",
+      "sources": [
+        {
+          "name": "ريال مدريد",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/bellingham-100-partidos-de-liga-con-el-real-madrid-21-11-2026"
+        }
+      ]
+    },
     {
       "id": "20261121-official-mourinho-post-celta-press-conference",
       "title": "مورينيو بعد الفوز: يحذر من الاعتماد على العودة ويؤكد أساسية فينيسيوس الثلاثاء",
