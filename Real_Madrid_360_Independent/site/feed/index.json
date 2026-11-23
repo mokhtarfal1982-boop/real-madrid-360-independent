@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-22T12:56:00Z",
+  "updatedAt": "2026-11-23T10:58:00Z",
   "news": [
+    "items/20261123-official-mourinho-psv-pre-match-press-conference-announcement.json",
     "items/20261122-official-espen-eskas-referee-psv.json",
     "items/20261122-official-training-psv-champions.json",
     "items/20261122-guler-vinicius-celta-progressive-play-analysis.json",
