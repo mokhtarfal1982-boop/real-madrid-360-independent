@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-23T13:55:00Z",
+  "updatedAt": "2026-11-23T14:58:00Z",
   "news": [
+    "items/20261123-courtois-official-psv-press-conference.json",
     "items/20261123-official-endrick-left-abductor-injury.json",
     "items/20261123-mourinho-psv-official-press-conference.json",
     "items/20261123-official-final-training-indoor-dumfries.json",
