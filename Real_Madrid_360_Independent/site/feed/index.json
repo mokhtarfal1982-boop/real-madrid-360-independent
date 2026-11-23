@@ -1,7 +1,8 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-23T10:58:00Z",
+  "updatedAt": "2026-11-23T12:03:00Z",
   "news": [
+    "items/20261123-final-training-psv-endrick-dumfries-absent.json",
     "items/20261123-official-mourinho-psv-pre-match-press-conference-announcement.json",
     "items/20261122-official-espen-eskas-referee-psv.json",
     "items/20261122-official-training-psv-champions.json",
