@@ -1,7 +1,53 @@
 {
   "schema": "rm360-news/1",
-  "updatedAt": "2026-11-23T15:56:00Z",
+  "updatedAt": "2026-11-26T12:38:00Z",
   "items": [
+    {
+      "id": "20261126-official-alaves-training",
+      "title": "ريال مدريد يبدأ التحضير لمواجهة ألافيس",
+      "summary": "عاد الفريق للتدريبات استعدادًا لمواجهة ألافيس يوم السبت 28 نوفمبر الساعة 23:00 بتوقيت السعودية.",
+      "body": [
+        "أكد النادي بدء التحضيرات لمباراة الجولة 14 في سانتياغو برنابيو بعد الفوز على آيندهوفن.",
+        "لم يتضمن التقرير الأولي تفاصيل جاهزية المصابين."
+      ],
+      "category": "تدريبات",
+      "contentType": "news",
+      "source": "ريال مدريد",
+      "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-26-11-2026",
+      "date": "2026-11-26",
+      "certainty": "مؤكد رسميًا",
+      "sources": [
+        {
+          "name": "ريال مدريد",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/entrenamientos/el-equipo-se-esta-entrenando-26-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261124-official-psv-final-5-1",
+      "title": "ريال مدريد يقلب تأخره إلى انتصار 5-1 على آيندهوفن",
+      "summary": "خمسة أهداف في الشوط الثاني تمنح ريال مدريد انتصاره الأوروبي الخامس و15 نقطة.",
+      "body": [
+        "تقدم آيندهوفن بركلة جزاء لبيريشيتش في الدقيقة 32. سجل فالفيردي في الدقيقة 50 وبيلينغهام في 60 ومبابي في 64 و84 وفينيسيوس في 87.",
+        "أجرى مورينيو ثلاثة تغييرات بين الشوطين. تحولت المباراة بعد الاستراحة، وحقق ريال مدريد فوزه الخامس في خمس مباريات أوروبية."
+      ],
+      "category": "تقرير مباراة",
+      "contentType": "analysis",
+      "source": "ريال مدريد، الليغا",
+      "url": "https://www.realmadrid.com/es-ES/futbol/partidos/champions-league/real-madrid-psv/24-11-2026",
+      "date": "2026-11-24T23:55:00Z",
+      "certainty": "مؤكد رسميًا",
+      "sources": [
+        {
+          "name": "ريال مدريد",
+          "url": "https://www.realmadrid.com/es-ES/futbol/partidos/champions-league/real-madrid-psv/24-11-2026"
+        },
+        {
+          "name": "الليغا",
+          "url": "https://www.laliga.com/en-EG/match/temporada-2026-2027-champions-league-real-madrid-psv-5"
+        }
+      ]
+    },
     {
       "id": "20261123-official-squad-psv-dumfries-included",
       "title": "رسميًا: دامفريس ضمن قائمة ريال مدريد لمواجهة آيندهوفن وإندريك خارجها",
