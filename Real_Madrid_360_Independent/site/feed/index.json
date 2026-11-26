@@ -1,7 +1,9 @@
 {
   "schema": "rm360-feed/1",
-  "updatedAt": "2026-11-23T15:56:00Z",
+  "updatedAt": "2026-11-26T12:38:00Z",
   "news": [
+    "items/20261126-official-alaves-training.json",
+    "items/20261124-official-psv-final-5-1.json",
     "items/20261123-official-squad-psv-dumfries-included.json",
     "items/20261123-courtois-official-psv-press-conference.json",
     "items/20261123-official-endrick-left-abductor-injury.json",
