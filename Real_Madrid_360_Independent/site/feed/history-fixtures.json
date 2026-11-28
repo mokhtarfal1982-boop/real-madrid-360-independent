@@ -1,0 +1,86 @@
+{
+  "schema": "rm360-history-fixtures/1",
+  "updatedAt": "2026-11-28T07:00:00.000Z",
+  "matches": [
+    {
+      "id": "87chbnhy5fke8c9kcv9s5ekus",
+      "c": "liga",
+      "d": "2026-11-28T20:00:00.000Z",
+      "tc": true,
+      "h": "RMA",
+      "a": "ALA",
+      "opponent": "Alavés",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "90jgc1ikn6gfk99ko3nxktb84",
+      "c": "liga",
+      "d": "2026-12-02T18:00:00.000Z",
+      "tc": true,
+      "h": "RSO",
+      "a": "RMA",
+      "opponent": "Real Sociedad",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "88mmeto6ws7bv6ys2ok9ccxsk",
+      "c": "liga",
+      "d": "2026-12-06T15:15:00.000Z",
+      "tc": true,
+      "h": "ATH",
+      "a": "RMA",
+      "opponent": "Athletic Club",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "65i87i68uf273xpm2n1et6oes",
+      "c": "ucl",
+      "d": "2026-12-09T20:00:00.000Z",
+      "tc": true,
+      "h": "ARS",
+      "a": "RMA",
+      "opponent": "Arsenal",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "8dskwn7gakcqy8k519op4pz4k",
+      "c": "liga",
+      "d": "2026-12-13T20:00:00.000Z",
+      "tc": true,
+      "h": "RMA",
+      "a": "OSA",
+      "opponent": "Osasuna",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "67dpyy2ua6i7nkizx6ub8d3bo",
+      "c": "ucl",
+      "d": "2027-01-19T20:00:00.000Z",
+      "tc": true,
+      "h": "RMA",
+      "a": "LASK",
+      "opponent": "LASK",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "6dbfukqwz50i6yx3k0yilxl3o",
+      "c": "ucl",
+      "d": "2027-01-27T20:00:00.000Z",
+      "tc": true,
+      "h": "SHA",
+      "a": "RMA",
+      "opponent": "Shakhtar Donetsk",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    },
+    {
+      "id": "am0tmpaessynt0858zo2z1uc",
+      "c": "supercopa",
+      "d": "2027-02-03T19:00:00.000Z",
+      "tc": true,
+      "h": "RSO",
+      "a": "RMA",
+      "opponent": "Real Sociedad",
+      "source": "https://www.realmadrid.com/es-ES/futbol/primer-equipo/calendario"
+    }
+  ]
+}

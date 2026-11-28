@@ -1,0 +1,2384 @@
+{
+  "regionalSourceIssues": [
+    [
+      "03",
+      "29-11-1903    Moderno FC  Madrid FC           * El Madrid cedió los puntos (The Madrid Fc, yielded the points)"
+    ],
+    [
+      "03",
+      "08-12-1903    Madrid FC  Moncloa FC           ?"
+    ],
+    [
+      "03",
+      "25-12-1903    Iberia FC - Madrid FC            ?"
+    ],
+    [
+      "03",
+      "03-01-1904    Madrid FC - Moderno FC           ?"
+    ],
+    [
+      "04",
+      "20-03-1904    Español FC  Madrid Moderno          * desempate, no se presentó el Madrid. (tiebreaker, did not present the Madrid))"
+    ],
+    [
+      "08",
+      "15-03-1908    Madrid FC  Athletic Madrid       **  El Madrid FC no se presenta, y pierde el partido ((The Madrid FC does not appear, and loses the match))"
+    ],
+    [
+      "34",
+      "27-05-1934    Madrid FC - AD Ferroviaria               1-1   0-7"
+    ]
+  ],
+  "crossCheckDifferences": [
+    [
+      "bdf-regional",
+      "1926-10-24",
+      "Racing de Madrid",
+      6,
+      1,
+      "regional",
+      [
+        "1926-10-24",
+        "Racing de Madrid",
+        "H",
+        2,
+        0,
+        "regional"
+      ]
+    ],
+    [
+      "curley-liga",
+      "1933-01-17",
+      "Arenas de Getxo",
+      5,
+      1,
+      "liga",
+      null
+    ],
+    [
+      "curley-liga",
+      "1947-01-07",
+      "Real Murcia",
+      1,
+      1,
+      "liga",
+      null
+    ],
+    [
+      "curley-liga",
+      "1978-01-01",
+      "Racing de Santander",
+      2,
+      0,
+      "liga",
+      null
+    ],
+    [
+      "curley-liga",
+      "1989-01-01",
+      "Espanyol",
+      4,
+      1,
+      "liga",
+      null
+    ],
+    [
+      "curley-liga",
+      "2005-01-05",
+      "Real Sociedad",
+      2,
+      1,
+      "liga",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1958-04-14",
+      "Vasas",
+      0,
+      2,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1960-11-25",
+      "Barcelona",
+      1,
+      2,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1962-02-26",
+      "Juventus",
+      0,
+      1,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1962-09-19",
+      "RSC Anderlecht",
+      0,
+      1,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1963-11-18",
+      "Dinamo Bucuresti",
+      5,
+      3,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1964-04-15",
+      "Zürich",
+      2,
+      1,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1964-04-29",
+      "Zürich",
+      6,
+      0,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1967-10-04",
+      "AFC Ajax",
+      2,
+      1,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1980-11-05",
+      "Budapest Honved SE",
+      2,
+      0,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1996-03-05",
+      "Juventus",
+      1,
+      0,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "1998-11-04",
+      "Sturm Graz",
+      5,
+      1,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "2000-05-02",
+      "Bayern München",
+      2,
+      0,
+      "ucl",
+      null
+    ],
+    [
+      "curley-ucl",
+      "2000-05-10",
+      "Bayern München",
+      1,
+      2,
+      "ucl",
+      null
+    ]
+  ],
+  "leyendaConflicts": [
+    [
+      "1910-12-11",
+      "Gimnástica Española",
+      [
+        2,
+        4
+      ],
+      [
+        "1910-12-11",
+        "Gimnástica Española",
+        "H",
+        1,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152019id_/http://www.leyendablanca.galeon.com/tempo11.htm"
+    ],
+    [
+      "1913-01-25",
+      "Sporting CP",
+      [
+        4,
+        3
+      ],
+      [
+        "1913-01-25",
+        "Sporting CP",
+        "A",
+        3,
+        4,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152252id_/http://www.leyendablanca.galeon.com/tempo13.htm"
+    ],
+    [
+      "1923-01-01",
+      "Vasas",
+      [
+        2,
+        1
+      ],
+      [
+        "1923-01-01",
+        "Vasas",
+        "H",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608044929id_/http://www.leyendablanca.galeon.com/tempo23.htm"
+    ],
+    [
+      "1923-04-01",
+      "Old Boys Basel",
+      [
+        1,
+        0
+      ],
+      [
+        "1923-04-01",
+        "Old Boys Bassel",
+        "A",
+        0,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190608044929id_/http://www.leyendablanca.galeon.com/tempo23.htm"
+    ],
+    [
+      "1959-07-10",
+      "Cd América Cali",
+      [
+        5,
+        2
+      ],
+      [
+        "1959-07-10",
+        "Cd América Cali",
+        "A",
+        4,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo60.htm"
+    ],
+    [
+      "1967-09-02",
+      "Vasco da Gama",
+      [
+        1,
+        6
+      ],
+      [
+        "1967-09-02",
+        "Vasco da Gama",
+        "H",
+        6,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152131id_/http://www.leyendablanca.galeon.com/tempo68.HTM"
+    ],
+    [
+      "1987-08-16",
+      "Sampdoria",
+      [
+        0,
+        1
+      ],
+      [
+        "1987-08-16",
+        "Sampdoria",
+        "A",
+        1,
+        0,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152053id_/http://www.leyendablanca.galeon.com/tempo88.htm"
+    ],
+    [
+      "1989-08-11",
+      "Steaua București",
+      [
+        1,
+        2
+      ],
+      [
+        "1989-08-11",
+        "Steaua București",
+        "H",
+        2,
+        1,
+        "teresa-herrera"
+      ],
+      "https://web.archive.org/web/20190819152238id_/http://www.leyendablanca.galeon.com/tempo90.htm"
+    ],
+    [
+      "1989-08-20",
+      "Spartak Moscow",
+      [
+        3,
+        1
+      ],
+      [
+        "1989-08-20",
+        "Spartak Moscow",
+        "H",
+        1,
+        3,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152238id_/http://www.leyendablanca.galeon.com/tempo90.htm"
+    ]
+  ],
+  "leyendaOpponentDifferences": [
+    [
+      "1921-01-01",
+      "Us Livorno",
+      [
+        "1921-01-01",
+        "As Livorno",
+        "A",
+        0,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608044925id_/http://www.leyendablanca.galeon.com/tempo21.htm"
+    ],
+    [
+      "1923-09-22",
+      "Sk Cracovia",
+      [
+        "1923-09-22",
+        "Sk Kraków",
+        "H",
+        4,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152101id_/http://www.leyendablanca.galeon.com/tempo24.htm"
+    ],
+    [
+      "1923-09-23",
+      "Sk Cracovia Sk",
+      [
+        "1923-09-23",
+        "Sk Kraków",
+        "H",
+        4,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152101id_/http://www.leyendablanca.galeon.com/tempo24.htm"
+    ],
+    [
+      "1925-09-11",
+      "Boldklubben 1893",
+      [
+        "1925-09-11",
+        "Bk Kobenhavn 03",
+        "A",
+        1,
+        4,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152040id_/http://www.leyendablanca.galeon.com/tempo26.htm"
+    ],
+    [
+      "1925-09-13",
+      "Boldklubben 1913",
+      [
+        "1925-09-13",
+        "Dennmark",
+        "A",
+        3,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152040id_/http://www.leyendablanca.galeon.com/tempo26.htm"
+    ],
+    [
+      "1927-07-10",
+      "Combinado Buenos Aires",
+      [
+        "1927-07-10",
+        "Sel. Buenos Aires",
+        "A",
+        2,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152157id_/http://www.leyendablanca.galeon.com/tempo28.htm"
+    ],
+    [
+      "1927-08-14",
+      "Seleccion Chalaca",
+      [
+        "1927-08-14",
+        "Sel. Chalaca",
+        "A",
+        4,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152157id_/http://www.leyendablanca.galeon.com/tempo28.htm"
+    ],
+    [
+      "1927-08-15",
+      "Combinado Limeño",
+      [
+        "1927-08-15",
+        "Alianza Lima",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152157id_/http://www.leyendablanca.galeon.com/tempo28.htm"
+    ],
+    [
+      "1927-08-28",
+      "Juventud Asturiana",
+      [
+        "1927-08-28",
+        "Juv. Asturiana",
+        "A",
+        2,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152157id_/http://www.leyendablanca.galeon.com/tempo28.htm"
+    ],
+    [
+      "1927-09-08",
+      "Club Asturias",
+      [
+        "1927-09-08",
+        "Asturias Mexico",
+        "A",
+        6,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152157id_/http://www.leyendablanca.galeon.com/tempo28.htm"
+    ],
+    [
+      "1927-09-24",
+      "Galicia Sc",
+      [
+        "1927-09-24",
+        "Galicia Brookyln",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152157id_/http://www.leyendablanca.galeon.com/tempo28.htm"
+    ],
+    [
+      "1931-08-23",
+      "Selección Budapest",
+      [
+        "1931-08-23",
+        "Sel. Budapest",
+        "A",
+        0,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152114id_/http://www.leyendablanca.galeon.com/tempo32.htm"
+    ],
+    [
+      "1931-08-26",
+      "Selección Praga",
+      [
+        "1931-08-26",
+        "Sel. Praha",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152114id_/http://www.leyendablanca.galeon.com/tempo32.htm"
+    ],
+    [
+      "1931-09-06",
+      "As Ambrosiana",
+      [
+        "1931-09-06",
+        "Inter",
+        "A",
+        3,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152114id_/http://www.leyendablanca.galeon.com/tempo32.htm"
+    ],
+    [
+      "1934-06-16",
+      "Psv Chemnitz",
+      [
+        "1934-06-16",
+        "Fc Chemnitzer",
+        "A",
+        2,
+        5,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20180712190118id_/http://leyendablanca.galeon.com:80/tempo34.HTM"
+    ],
+    [
+      "1934-06-17",
+      "Dresdner Sc",
+      [
+        "1934-06-17",
+        "Dinamo Dresden",
+        "A",
+        3,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20180712190118id_/http://leyendablanca.galeon.com:80/tempo34.HTM"
+    ],
+    [
+      "1934-06-27",
+      "Fc Nuremberg",
+      [
+        "1934-06-27",
+        "Fc Nürnberg",
+        "A",
+        2,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20180712190118id_/http://leyendablanca.galeon.com:80/tempo34.HTM"
+    ],
+    [
+      "1934-07-15",
+      "IK Sleipner",
+      [
+        "1934-07-15",
+        "Ifk Norkoping",
+        "A",
+        5,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152046id_/http://www.leyendablanca.galeon.com/tempo35.HTM"
+    ],
+    [
+      "1936-01-01",
+      "Szegedi Tc",
+      [
+        "1936-01-01",
+        "Fc Szegedi",
+        "H",
+        4,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152301id_/http://www.leyendablanca.galeon.com/tempo36.htm"
+    ],
+    [
+      "1949-10-25",
+      "Combinado De Gibraltar",
+      [
+        "1949-10-25",
+        "Sel. Gibraltar",
+        "A",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152124id_/http://www.leyendablanca.galeon.com/tempo50.HTM"
+    ],
+    [
+      "1950-11-01",
+      "Olympique Gc Niza",
+      [
+        "1950-11-01",
+        "Ogc Nice",
+        "H",
+        5,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152152id_/http://www.leyendablanca.galeon.com/tempo51.HTM"
+    ],
+    [
+      "1951-10-12",
+      "O.G. Niza",
+      [
+        "1951-10-12",
+        "Ogc Nice",
+        "H",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152153id_/http://www.leyendablanca.galeon.com/tempo52.htm"
+    ],
+    [
+      "1952-08-04",
+      "Juventud Asturiana",
+      [
+        "1952-08-04",
+        "Juv. Asturiana",
+        "A",
+        8,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152255id_/http://www.leyendablanca.galeon.com/tempo53.HTM"
+    ],
+    [
+      "1953-01-06",
+      "Göteborg Ais",
+      [
+        "1953-01-06",
+        "Ifk Göteborg",
+        "H",
+        5,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152255id_/http://www.leyendablanca.galeon.com/tempo53.HTM"
+    ],
+    [
+      "1953-05-20",
+      "Sittardia Vv",
+      [
+        "1953-05-20",
+        "Fortuna Sittard",
+        "H",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152255id_/http://www.leyendablanca.galeon.com/tempo53.HTM"
+    ],
+    [
+      "1956-11-29",
+      "Honved Budapest",
+      [
+        "1956-11-29",
+        "Budapest Honved Fc",
+        "H",
+        5,
+        5,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152136id_/http://www.leyendablanca.galeon.com/tempo57.HTM"
+    ],
+    [
+      "1958-08-30",
+      "Wiener Sk",
+      [
+        "1958-08-30",
+        "Viena Sc",
+        "H",
+        5,
+        3,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152121id_/http://www.leyendablanca.galeon.com/tempo59.htm"
+    ],
+    [
+      "1959-06-30",
+      "Selección Amsterdam",
+      [
+        "1959-06-30",
+        "Sel. Amsterdam",
+        "A",
+        4,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152121id_/http://www.leyendablanca.galeon.com/tempo59.htm"
+    ],
+    [
+      "1959-07-05",
+      "Cd Millonarios Bogotá",
+      [
+        "1959-07-05",
+        "Millonarios",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo60.htm"
+    ],
+    [
+      "1959-07-12",
+      "Selección Pichincha",
+      [
+        "1959-07-12",
+        "Sel. Pitinha",
+        "A",
+        5,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo60.htm"
+    ],
+    [
+      "1959-07-19",
+      "Combinado Ny Hungarians/Graz",
+      [
+        "1959-07-19",
+        "Ny Hungaria-Graz",
+        "A",
+        8,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo60.htm"
+    ],
+    [
+      "1960-08-16",
+      "Combinado  De Berlin",
+      [
+        "1960-08-16",
+        "Comb. Berlin",
+        "A",
+        1,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152221id_/http://www.leyendablanca.galeon.com/tempo61.htm"
+    ],
+    [
+      "1960-08-18",
+      "Combinado Staevnet",
+      [
+        "1960-08-18",
+        "Comb. Staevnet",
+        "A",
+        4,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152221id_/http://www.leyendablanca.galeon.com/tempo61.htm"
+    ],
+    [
+      "1960-08-23",
+      "Selección Gotteborg",
+      [
+        "1960-08-23",
+        "Comb. Göteborg",
+        "A",
+        5,
+        4,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152221id_/http://www.leyendablanca.galeon.com/tempo61.htm"
+    ],
+    [
+      "1961-01-18",
+      "Deportivo Español",
+      [
+        "1961-01-18",
+        "Cd Español",
+        "H",
+        6,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152221id_/http://www.leyendablanca.galeon.com/tempo61.htm"
+    ],
+    [
+      "1961-05-24",
+      "Gremio Porto Alegre",
+      [
+        "1961-05-24",
+        "Porto Alegre",
+        "A",
+        4,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152221id_/http://www.leyendablanca.galeon.com/tempo61.htm"
+    ],
+    [
+      "1961-08-15",
+      "Deportivo Saprissa",
+      [
+        "1961-08-15",
+        "Cd Saprissa",
+        "A",
+        4,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152002id_/http://www.leyendablanca.galeon.com/tempo62.htm"
+    ],
+    [
+      "1961-12-22",
+      "Zamalek",
+      [
+        "1961-12-22",
+        "Zamalek-Al Alhy",
+        "A",
+        7,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152002id_/http://www.leyendablanca.galeon.com/tempo62.htm"
+    ],
+    [
+      "1962-06-17",
+      "So Montpellier",
+      [
+        "1962-06-17",
+        "So Montperrerian",
+        "H",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152002id_/http://www.leyendablanca.galeon.com/tempo62.htm"
+    ],
+    [
+      "1962-12-02",
+      "As Troyes Ac",
+      [
+        "1962-12-02",
+        "Es Troyes",
+        "H",
+        5,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152018id_/http://www.leyendablanca.galeon.com/tempo63.htm"
+    ],
+    [
+      "1963-03-20",
+      "Girondins Burdeos",
+      [
+        "1963-03-20",
+        "Fc Girondins B.",
+        "A",
+        5,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152018id_/http://www.leyendablanca.galeon.com/tempo63.htm"
+    ],
+    [
+      "1965-08-19",
+      "Colo Colo",
+      [
+        "1965-08-19",
+        "Csd Colo Colo",
+        "A",
+        4,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20200203162911id_/http://leyendablanca.galeon.com/tempo66.HTM"
+    ],
+    [
+      "1965-08-22",
+      "Combinado Chalaco",
+      [
+        "1965-08-22",
+        "Peru",
+        "A",
+        2,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20200203162911id_/http://leyendablanca.galeon.com/tempo66.HTM"
+    ],
+    [
+      "1966-08-28",
+      "Cd Almeria",
+      [
+        "1966-08-28",
+        "Boca Juniors",
+        "H",
+        1,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152211id_/http://www.leyendablanca.galeon.com/tempo67.htm"
+    ],
+    [
+      "1967-06-07",
+      "Celtic De Glasgow",
+      [
+        "1967-06-07",
+        "Celtic Fc",
+        "H",
+        0,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152211id_/http://www.leyendablanca.galeon.com/tempo67.htm"
+    ],
+    [
+      "1968-10-09",
+      "Offenbach  Kickers",
+      [
+        "1968-10-09",
+        "Kickers Offenbach",
+        "A",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152027id_/http://www.leyendablanca.galeon.com/tempo69.htm"
+    ],
+    [
+      "1969-04-02",
+      "Francia",
+      [
+        "1969-04-02",
+        "France",
+        "A",
+        3,
+        5,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152027id_/http://www.leyendablanca.galeon.com/tempo69.htm"
+    ],
+    [
+      "1970-08-22",
+      "Standard Lieja",
+      [
+        "1970-08-22",
+        "Standard Liegois",
+        "H",
+        1,
+        0,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152014id_/http://www.leyendablanca.galeon.com/tempo71.htm"
+    ],
+    [
+      "1971-06-29",
+      "Estrella Roja",
+      [
+        "1971-06-29",
+        "Red Star Beograd",
+        "H",
+        1,
+        2,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152014id_/http://www.leyendablanca.galeon.com/tempo71.htm"
+    ],
+    [
+      "1972-08-15",
+      "Estrella Roja",
+      [
+        "1972-08-15",
+        "Fk Red Star Beograd",
+        "A",
+        1,
+        4,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152037id_/http://www.leyendablanca.galeon.com/tempo73.htm"
+    ],
+    [
+      "1972-08-19",
+      "Olimpiakos Cfp",
+      [
+        "1972-08-19",
+        "Olympiakos",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152037id_/http://www.leyendablanca.galeon.com/tempo73.htm"
+    ],
+    [
+      "1973-08-15",
+      "Sk Rapid De Viena",
+      [
+        "1973-08-15",
+        "Austria Wien",
+        "H",
+        1,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152134id_/http://www.leyendablanca.galeon.com/tempo74.htm"
+    ],
+    [
+      "1973-10-21",
+      "Fc Girondins Burdeos",
+      [
+        "1973-10-21",
+        "Fc Girondins B.(Fra)",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152134id_/http://www.leyendablanca.galeon.com/tempo74.htm"
+    ],
+    [
+      "1974-09-24",
+      "Standard De Lieja",
+      [
+        "1974-09-24",
+        "Standard Liegois",
+        "H",
+        3,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152239id_/http://www.leyendablanca.galeon.com/tempo75.htm"
+    ],
+    [
+      "1974-11-15",
+      "Selección Liga Francesa",
+      [
+        "1974-11-15",
+        "Com. France League",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152239id_/http://www.leyendablanca.galeon.com/tempo75.htm"
+    ],
+    [
+      "1975-08-19",
+      "Francia",
+      [
+        "1975-08-19",
+        "France",
+        "A",
+        1,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152039id_/http://www.leyendablanca.galeon.com/tempo76.htm"
+    ],
+    [
+      "1975-10-14",
+      "Burussia Moench.",
+      [
+        "1975-10-14",
+        "B. Monchengladbach",
+        "A",
+        3,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152039id_/http://www.leyendablanca.galeon.com/tempo76.htm"
+    ],
+    [
+      "1976-08-26",
+      "Aalborg",
+      [
+        "1976-08-26",
+        "Aalborg Bk",
+        "A",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608044938id_/http://www.leyendablanca.galeon.com/tempo77.HTM"
+    ],
+    [
+      "1977-03-03",
+      "Suecia",
+      [
+        "1977-03-03",
+        "Sweden",
+        "H",
+        2,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608044938id_/http://www.leyendablanca.galeon.com/tempo77.HTM"
+    ],
+    [
+      "1977-08-07",
+      "Sc Feyenoord (Hol) -",
+      [
+        "1977-08-07",
+        "Sc Feyenoord",
+        "H",
+        4,
+        2,
+        "teresa-herrera"
+      ],
+      "https://web.archive.org/web/20190819152005id_/http://www.leyendablanca.galeon.com/tempo78.HTM"
+    ],
+    [
+      "1977-08-24",
+      "Eintracht  Braunschweig",
+      [
+        "1977-08-24",
+        "E. Braunschweick",
+        "H",
+        3,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152005id_/http://www.leyendablanca.galeon.com/tempo78.HTM"
+    ],
+    [
+      "1977-10-12",
+      "Combinado Sudamérica",
+      [
+        "1977-10-12",
+        "Com. Sudamérica",
+        "A",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152005id_/http://www.leyendablanca.galeon.com/tempo78.HTM"
+    ],
+    [
+      "1978-04-12",
+      "Eintrach Braunschweig",
+      [
+        "1978-04-12",
+        "E. Braunschweig",
+        "A",
+        0,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152005id_/http://www.leyendablanca.galeon.com/tempo78.HTM"
+    ],
+    [
+      "1979-08-09",
+      "Fk Colonia",
+      [
+        "1979-08-09",
+        "FC Köln",
+        "A",
+        1,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152044id_/http://www.leyendablanca.galeon.com/tempo80.htm"
+    ],
+    [
+      "1980-08-02",
+      "Go Ahead Eagles",
+      [
+        "1980-08-02",
+        "Gae Deventer",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152259id_/http://www.leyendablanca.galeon.com/tempo81.htm"
+    ],
+    [
+      "1982-05-01",
+      "Argelia",
+      [
+        "1982-05-01",
+        "Algerie",
+        "A",
+        1,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152031id_/http://www.leyendablanca.galeon.com/tempo82.htm"
+    ],
+    [
+      "1982-05-23",
+      "Univ. Los Andes",
+      [
+        "1982-05-23",
+        "Universidad Los Andes",
+        "A",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152031id_/http://www.leyendablanca.galeon.com/tempo82.htm"
+    ],
+    [
+      "1982-07-31",
+      "Hertha Bsc",
+      [
+        "1982-07-31",
+        "Hertha Berlin Sc",
+        "A",
+        0,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152017id_/http://www.leyendablanca.galeon.com/tempo83.HTM"
+    ],
+    [
+      "1982-09-01",
+      "Fc Girondins  Burdeos",
+      [
+        "1982-09-01",
+        "Fc Girondins Bourdeaux",
+        "H",
+        2,
+        0,
+        "bernabeu"
+      ],
+      "https://web.archive.org/web/20190819152017id_/http://www.leyendablanca.galeon.com/tempo83.HTM"
+    ],
+    [
+      "1984-08-29",
+      "1 Fc Colonia",
+      [
+        "1984-08-29",
+        "1Fk Köln",
+        "H",
+        4,
+        1,
+        "bernabeu"
+      ],
+      "https://web.archive.org/web/20190819152212id_/http://www.leyendablanca.galeon.com/tempo85.htm"
+    ],
+    [
+      "1986-08-01",
+      "Club Nacional Montevideo",
+      [
+        "1986-08-01",
+        "Club Nacional",
+        "H",
+        2,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152312id_/http://www.leyendablanca.galeon.com/tempo87.htm"
+    ],
+    [
+      "1987-08-02",
+      "Vitesse Arnhem",
+      [
+        "1987-08-02",
+        "Fc Vitesse",
+        "A",
+        3,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152053id_/http://www.leyendablanca.galeon.com/tempo88.htm"
+    ],
+    [
+      "1987-08-04",
+      "Ds´79 Doordrecht",
+      [
+        "1987-08-04",
+        "Fc Dordrecht",
+        "A",
+        5,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152053id_/http://www.leyendablanca.galeon.com/tempo88.htm"
+    ],
+    [
+      "1987-08-07",
+      "Madesse Boys",
+      [
+        "1987-08-07",
+        "Mathese Boys",
+        "A",
+        12,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152053id_/http://www.leyendablanca.galeon.com/tempo88.htm"
+    ],
+    [
+      "1988-08-01",
+      "Agovv Apeldoorn",
+      [
+        "1988-08-01",
+        "Agovv",
+        "A",
+        8,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152133id_/http://www.leyendablanca.galeon.com/tempo89.htm"
+    ],
+    [
+      "1988-08-05",
+      "Royal Amberes",
+      [
+        "1988-08-05",
+        "Royal Antwerp Sc",
+        "A",
+        2,
+        2,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152133id_/http://www.leyendablanca.galeon.com/tempo89.htm"
+    ],
+    [
+      "1988-08-07",
+      "Feyenoord Rotterdam",
+      [
+        "1988-08-07",
+        "Sc Feyenoord",
+        "A",
+        3,
+        3,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152133id_/http://www.leyendablanca.galeon.com/tempo89.htm"
+    ],
+    [
+      "1989-08-24",
+      "Fc Swarovski Tirol",
+      [
+        "1989-08-24",
+        "Fc Tirol",
+        "A",
+        3,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152238id_/http://www.leyendablanca.galeon.com/tempo90.htm"
+    ],
+    [
+      "1990-01-16",
+      "Dniepr Donetsk",
+      [
+        "1990-01-16",
+        "Fc Dnipro",
+        "H",
+        1,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152238id_/http://www.leyendablanca.galeon.com/tempo90.htm"
+    ],
+    [
+      "1991-06-15",
+      "Palermo Us",
+      [
+        "1991-06-15",
+        "Ac Palermo",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152025id_/http://www.leyendablanca.galeon.com/tempo91.htm"
+    ],
+    [
+      "1991-08-03",
+      "Calcio Padova",
+      [
+        "1991-08-03",
+        "Ac Padova",
+        "A",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608044947id_/http://www.leyendablanca.galeon.com/tempo92.htm"
+    ],
+    [
+      "1991-08-17",
+      "Afc Ajax",
+      [
+        "1991-08-17",
+        "Ajax Amsterdam",
+        "A",
+        0,
+        2,
+        "teresa-herrera"
+      ],
+      "https://web.archive.org/web/20190608044947id_/http://www.leyendablanca.galeon.com/tempo92.htm"
+    ],
+    [
+      "1992-08-27",
+      "P.S.V Eindhoven",
+      [
+        "1992-08-27",
+        "PSV",
+        "A",
+        3,
+        2,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190608044951id_/http://www.leyendablanca.galeon.com/tempo93.htm"
+    ],
+    [
+      "1992-09-01",
+      "Afc Ajax",
+      [
+        "1992-09-01",
+        "Ajax Amsterdam",
+        "H",
+        1,
+        3,
+        "bernabeu"
+      ],
+      "https://web.archive.org/web/20190608044951id_/http://www.leyendablanca.galeon.com/tempo93.htm"
+    ],
+    [
+      "1993-04-27",
+      "Tottenham H.",
+      [
+        "1993-04-27",
+        "Tottenham Hotspur",
+        "A",
+        1,
+        0,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190608044951id_/http://www.leyendablanca.galeon.com/tempo93.htm"
+    ],
+    [
+      "1993-08-20",
+      "Cf Universidad Chile",
+      [
+        "1993-08-20",
+        "Universidad",
+        "A",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608044956id_/http://www.leyendablanca.galeon.com/tempo94.htm"
+    ],
+    [
+      "1994-10-04",
+      "Paris Sg",
+      [
+        "1994-10-04",
+        "PSG",
+        "H",
+        4,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608045000id_/http://www.leyendablanca.galeon.com/tempo95.htm"
+    ],
+    [
+      "1995-02-28",
+      "Celtic De Glasgow",
+      [
+        "1995-02-28",
+        "Celtic Fc(Esc)",
+        "H",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608045000id_/http://www.leyendablanca.galeon.com/tempo95.htm"
+    ],
+    [
+      "1995-03-25",
+      "Standard De Lieja",
+      [
+        "1995-03-25",
+        "Standard Liegois",
+        "H",
+        2,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608045000id_/http://www.leyendablanca.galeon.com/tempo95.htm"
+    ],
+    [
+      "1995-06-08",
+      "Fc Copenhage",
+      [
+        "1995-06-08",
+        "Bk Kobenhavn",
+        "H",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608045000id_/http://www.leyendablanca.galeon.com/tempo95.htm"
+    ],
+    [
+      "1995-08-30",
+      "Afc Ajax",
+      [
+        "1995-08-30",
+        "Ajax Amsterdam",
+        "H",
+        1,
+        0,
+        "bernabeu"
+      ],
+      "https://web.archive.org/web/20190819152133id_/http://www.leyendablanca.galeon.com/tempo96.htm"
+    ],
+    [
+      "1995-10-10",
+      "At. Celaya",
+      [
+        "1995-10-10",
+        "Atletico Celaya",
+        "H",
+        2,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152133id_/http://www.leyendablanca.galeon.com/tempo96.htm"
+    ],
+    [
+      "1996-07-31",
+      "Yverdon Sports",
+      [
+        "1996-07-31",
+        "Fc Yverdon",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608045003id_/http://www.leyendablanca.galeon.com/tempo97.htm"
+    ],
+    [
+      "1996-10-08",
+      "At. Celaya",
+      [
+        "1996-10-08",
+        "Atletico Celaya",
+        "H",
+        3,
+        0,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190608045003id_/http://www.leyendablanca.galeon.com/tempo97.htm"
+    ],
+    [
+      "1997-07-30",
+      "Lausanne Fc",
+      [
+        "1997-07-30",
+        "Laussane Sp",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323045214id_/http://www.leyendablanca.galeon.com:80/tempo98.htm"
+    ],
+    [
+      "1997-08-10",
+      "Afc Ajax",
+      [
+        "1997-08-10",
+        "Ajax Amsterdam",
+        "H",
+        2,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190323045214id_/http://www.leyendablanca.galeon.com:80/tempo98.htm"
+    ],
+    [
+      "1998-07-24",
+      "Cs Chênois Fc",
+      [
+        "1998-07-24",
+        "Fc Chanois",
+        "A",
+        15,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152139id_/http://www.leyendablanca.galeon.com/tempo99.htm"
+    ],
+    [
+      "1998-08-23",
+      "B. Monchengladbach",
+      [
+        "1998-08-23",
+        "VfL Borussia Mönchengladbach",
+        "H",
+        3,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152139id_/http://www.leyendablanca.galeon.com/tempo99.htm"
+    ],
+    [
+      "1999-07-28",
+      "Laussane Sports",
+      [
+        "1999-07-28",
+        "Lausanne Sp",
+        "A",
+        1,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152258id_/http://www.leyendablanca.galeon.com/tempo2000.htm"
+    ],
+    [
+      "1999-08-07",
+      "Fk Estrella Roja",
+      [
+        "1999-08-07",
+        "Fk Red Star Beograd",
+        "H",
+        2,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152258id_/http://www.leyendablanca.galeon.com/tempo2000.htm"
+    ],
+    [
+      "1999-08-13",
+      "Peruggia Calcio",
+      [
+        "1999-08-13",
+        "Ac Peruggia",
+        "H",
+        1,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152258id_/http://www.leyendablanca.galeon.com/tempo2000.htm"
+    ],
+    [
+      "2000-08-01",
+      "Milan Ac",
+      [
+        "2000-08-01",
+        "Ac Milan(Ita)",
+        "A",
+        5,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20161109224012id_/http://www.leyendablanca.galeon.com/tempo2001.htm"
+    ],
+    [
+      "2002-07-28",
+      "Grazer Ak",
+      [
+        "2002-07-28",
+        "Gaz",
+        "A",
+        2,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152123id_/http://www.leyendablanca.galeon.com/tempo2003.htm"
+    ],
+    [
+      "2002-08-02",
+      "Liverpool Fc",
+      [
+        "2002-08-02",
+        "Liverpool Fc(Eng)",
+        "H",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152123id_/http://www.leyendablanca.galeon.com/tempo2003.htm"
+    ],
+    [
+      "2004-07-29",
+      "Jef United Ichiara",
+      [
+        "2004-07-29",
+        "Jef United",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190608045019id_/http://www.leyendablanca.galeon.com/tempo2005.htm"
+    ],
+    [
+      "2005-07-17",
+      "Chivas Guadalajara",
+      [
+        "2005-07-17",
+        "Club Guadalajara",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323043542id_/http://www.leyendablanca.galeon.com:80/tempo2006.htm"
+    ],
+    [
+      "2005-07-29",
+      "All Stars Thailandia",
+      [
+        "2005-07-29",
+        "All Stars",
+        "A",
+        3,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323043542id_/http://www.leyendablanca.galeon.com:80/tempo2006.htm"
+    ],
+    [
+      "2005-08-14",
+      "Puskas Balogatott",
+      [
+        "2005-08-14",
+        "Sel. Puskas Team",
+        "A",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323043542id_/http://www.leyendablanca.galeon.com:80/tempo2006.htm"
+    ],
+    [
+      "2005-08-23",
+      "Sel. Major League Soccer",
+      [
+        "2005-08-23",
+        "Msl Selection",
+        "H",
+        5,
+        0,
+        "bernabeu"
+      ],
+      "https://web.archive.org/web/20190323043542id_/http://www.leyendablanca.galeon.com:80/tempo2006.htm"
+    ],
+    [
+      "2008-08-07",
+      "Independiente Santa Fe",
+      [
+        "2008-08-07",
+        "Independiente",
+        "A",
+        2,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323045209id_/http://www.leyendablanca.galeon.com:80/tempo2009.htm"
+    ],
+    [
+      "2008-08-12",
+      "Eintracht Frankfurt",
+      [
+        "2008-08-12",
+        "Eintracht F.",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323045209id_/http://www.leyendablanca.galeon.com:80/tempo2009.htm"
+    ],
+    [
+      "2011-07-23",
+      "Unión Philadelfia",
+      [
+        "2011-07-23",
+        "Philadelpia",
+        "A",
+        2,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152122id_/http://www.leyendablanca.galeon.com/tempo2012.htm"
+    ],
+    [
+      "2013-07-27",
+      "Paris Saint Germanin",
+      [
+        "2013-07-27",
+        "PSG",
+        "A",
+        1,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152008id_/http://www.leyendablanca.galeon.com/tempo2014.htm"
+    ]
+  ],
+  "leyendaDateDifferences": [
+    [
+      "1922-05-05",
+      "Civil Service",
+      [
+        1,
+        1
+      ],
+      [
+        "1922-05-06",
+        "Civil Service",
+        "H",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152103id_/http://www.leyendablanca.galeon.com/tempo22.htm"
+    ],
+    [
+      "1924-09-28",
+      "Torino Calcio",
+      [
+        2,
+        2
+      ],
+      [
+        "1924-09-29",
+        "Torino Calcio",
+        "H",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152232id_/http://www.leyendablanca.galeon.com/tempo25.htm"
+    ],
+    [
+      "1924-12-31",
+      "Zürich",
+      [
+        1,
+        6
+      ],
+      [
+        "1924-12-30",
+        "Zürich",
+        "H",
+        1,
+        6,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152232id_/http://www.leyendablanca.galeon.com/tempo25.htm"
+    ],
+    [
+      "1934-07-17",
+      "Cp Söderham",
+      [
+        6,
+        1
+      ],
+      [
+        "1934-07-18",
+        "Cp Söderham",
+        "A",
+        6,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152046id_/http://www.leyendablanca.galeon.com/tempo35.HTM"
+    ],
+    [
+      "1948-12-01",
+      "SL Benfica",
+      [
+        1,
+        1
+      ],
+      [
+        "1948-11-30",
+        "SL Benfica",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152008id_/http://www.leyendablanca.galeon.com/tempo49.htm"
+    ],
+    [
+      "1952-03-30",
+      "Millonarios",
+      [
+        2,
+        4
+      ],
+      [
+        "1952-03-28",
+        "Millonarios",
+        "H",
+        2,
+        4,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152153id_/http://www.leyendablanca.galeon.com/tempo52.htm"
+    ],
+    [
+      "1956-07-19",
+      "Vasco da Gama",
+      [
+        2,
+        2
+      ],
+      [
+        "1956-07-18",
+        "Vasco da Gama",
+        "H",
+        2,
+        2,
+        "small-world-cup"
+      ],
+      "https://web.archive.org/web/20190819152136id_/http://www.leyendablanca.galeon.com/tempo57.HTM"
+    ],
+    [
+      "1958-08-25",
+      "Club Nacional",
+      [
+        0,
+        0
+      ],
+      [
+        "1958-08-26",
+        "Club Nacional",
+        "A",
+        0,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152121id_/http://www.leyendablanca.galeon.com/tempo59.htm"
+    ],
+    [
+      "1959-01-28",
+      "Zürich",
+      [
+        5,
+        2
+      ],
+      [
+        "1959-01-27",
+        "Zürich",
+        "H",
+        5,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152121id_/http://www.leyendablanca.galeon.com/tempo59.htm"
+    ],
+    [
+      "1960-05-26",
+      "Borussia Dortmund",
+      [
+        3,
+        0
+      ],
+      [
+        "1960-05-25",
+        "Borussia Dortmund",
+        "H",
+        3,
+        0,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo60.htm"
+    ],
+    [
+      "1960-09-21",
+      "Zürich",
+      [
+        3,
+        3
+      ],
+      [
+        "1960-09-22",
+        "Zürich",
+        "A",
+        3,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152221id_/http://www.leyendablanca.galeon.com/tempo61.htm"
+    ],
+    [
+      "1962-08-27",
+      "F.A.R Rabat",
+      [
+        3,
+        4
+      ],
+      [
+        "1962-08-26",
+        "Far Rabat",
+        "A",
+        3,
+        4,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152018id_/http://www.leyendablanca.galeon.com/tempo63.htm"
+    ],
+    [
+      "1968-08-21",
+      "New York General",
+      [
+        4,
+        1
+      ],
+      [
+        "1968-08-22",
+        "New York General",
+        "A",
+        4,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152027id_/http://www.leyendablanca.galeon.com/tempo69.htm"
+    ],
+    [
+      "1969-08-23",
+      "São Paulo",
+      [
+        1,
+        2
+      ],
+      [
+        "1969-08-24",
+        "São Paulo",
+        "A",
+        1,
+        2,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152125id_/http://www.leyendablanca.galeon.com/tempo70.htm"
+    ],
+    [
+      "1975-08-29",
+      "Dinamo De Moscu",
+      [
+        2,
+        1
+      ],
+      [
+        "1975-08-30",
+        "Dinamo Moscow",
+        "H",
+        2,
+        1,
+        "friendly-tournament"
+      ],
+      "https://web.archive.org/web/20190819152039id_/http://www.leyendablanca.galeon.com/tempo76.htm"
+    ],
+    [
+      "2002-08-18",
+      "SL Benfica",
+      [
+        3,
+        2
+      ],
+      [
+        "2002-08-17",
+        "SL Benfica",
+        "A",
+        3,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152123id_/http://www.leyendablanca.galeon.com/tempo2003.htm"
+    ],
+    [
+      "2006-08-10",
+      "Dc United",
+      [
+        1,
+        1
+      ],
+      [
+        "2006-08-09",
+        "Dc United",
+        "A",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323043626id_/http://www.leyendablanca.galeon.com:80/tempo2007.htm"
+    ],
+    [
+      "2006-08-13",
+      "Real Salt Lake",
+      [
+        2,
+        0
+      ],
+      [
+        "2006-08-12",
+        "Real Salt Lake",
+        "A",
+        2,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190323043626id_/http://www.leyendablanca.galeon.com:80/tempo2007.htm"
+    ],
+    [
+      "2006-08-23",
+      "RSC Anderlecht",
+      [
+        2,
+        1
+      ],
+      [
+        "2006-08-24",
+        "RSC Anderlecht",
+        "H",
+        2,
+        1,
+        "bernabeu"
+      ],
+      "https://web.archive.org/web/20190323043626id_/http://www.leyendablanca.galeon.com:80/tempo2007.htm"
+    ],
+    [
+      "2010-08-08",
+      "LA Galaxy",
+      [
+        3,
+        2
+      ],
+      [
+        "2010-08-07",
+        "LA Galaxy",
+        "A",
+        3,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152108id_/http://www.leyendablanca.galeon.com/tempo2011.htm"
+    ],
+    [
+      "2011-07-17",
+      "LA Galaxy",
+      [
+        4,
+        1
+      ],
+      [
+        "2011-07-16",
+        "LA Galaxy",
+        "A",
+        4,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152122id_/http://www.leyendablanca.galeon.com/tempo2012.htm"
+    ],
+    [
+      "2014-07-27",
+      "Inter",
+      [
+        1,
+        1
+      ],
+      [
+        "2014-07-26",
+        "Inter",
+        "H",
+        1,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152138id_/http://www.leyendablanca.galeon.com/tempo2015.htm"
+    ],
+    [
+      "2014-07-30",
+      "AS Roma",
+      [
+        0,
+        1
+      ],
+      [
+        "2014-07-29",
+        "AS Roma",
+        "A",
+        0,
+        1,
+        "icc"
+      ],
+      "https://web.archive.org/web/20190819152138id_/http://www.leyendablanca.galeon.com/tempo2015.htm"
+    ],
+    [
+      "2016-07-28",
+      "PSG",
+      [
+        1,
+        3
+      ],
+      [
+        "2016-07-27",
+        "PSG",
+        "H",
+        1,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152120id_/http://www.leyendablanca.galeon.com/tempo2017.htm"
+    ],
+    [
+      "2016-08-04",
+      "Bayern München",
+      [
+        1,
+        0
+      ],
+      [
+        "2016-08-03",
+        "Bayern München",
+        "A",
+        1,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152120id_/http://www.leyendablanca.galeon.com/tempo2017.htm"
+    ],
+    [
+      "2018-08-01",
+      "Manchester United",
+      [
+        1,
+        2
+      ],
+      [
+        "2018-07-31",
+        "Manchester United",
+        "A",
+        1,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152055id_/http://www.leyendablanca.galeon.com/tempo2019.htm"
+    ],
+    [
+      "2018-08-05",
+      "Juventus Fc",
+      [
+        3,
+        1
+      ],
+      [
+        "2018-08-04",
+        "Juventus",
+        "H",
+        3,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152055id_/http://www.leyendablanca.galeon.com/tempo2019.htm"
+    ],
+    [
+      "2018-08-08",
+      "AS Roma",
+      [
+        2,
+        1
+      ],
+      [
+        "2018-08-07",
+        "AS Roma",
+        "H",
+        2,
+        1,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152055id_/http://www.leyendablanca.galeon.com/tempo2019.htm"
+    ],
+    [
+      "2019-07-21",
+      "Fc Bayern Munich",
+      [
+        1,
+        3
+      ],
+      [
+        "2019-07-20",
+        "Bayern München",
+        "A",
+        1,
+        3,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo2020.htm"
+    ],
+    [
+      "2019-07-24",
+      "Arsenal Fc",
+      [
+        2,
+        2
+      ],
+      [
+        "2019-07-23",
+        "Arsenal",
+        "H",
+        2,
+        2,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo2020.htm"
+    ],
+    [
+      "2019-07-27",
+      "Atlético de Madrid",
+      [
+        3,
+        7
+      ],
+      [
+        "2019-07-26",
+        "Atlético de Madrid",
+        "H",
+        3,
+        7,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo2020.htm"
+    ],
+    [
+      "2019-08-08",
+      "Red Bull Salzburg",
+      [
+        1,
+        0
+      ],
+      [
+        "2019-08-07",
+        "Red Bull Salzburg",
+        "A",
+        1,
+        0,
+        "friendly"
+      ],
+      "https://web.archive.org/web/20190819152003id_/http://www.leyendablanca.galeon.com/tempo2020.htm"
+    ]
+  ]
+}

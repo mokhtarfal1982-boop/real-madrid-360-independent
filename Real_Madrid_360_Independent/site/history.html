@@ -1,1 +1,49 @@
-<!doctype html><html lang="ar" dir="rtl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>في مثل هذا اليوم | ريال مدريد 360</title><link rel="stylesheet" href="./history.css"><body><a href="./">العودة إلى ريال مدريد 360</a><h1>في مثل هذا اليوم</h1><p>أرشيف المباريات الرسمية للفريق الأول. التغطية الحالية جزئية؛ الأرقام تخص السجلات الموثقة فقط ولا تمثل التاريخ الكامل.</p><label>اختر التاريخ <input id="date" type="date"></label> <button id="next" disabled>تاريخ المباراة المقبلة</button><p id="fixture"></p><section id="stats"></section><div id="rows"></div><p>النتائج التاريخية ليست توقعاً لنتيجة المباراة المقبلة.</p><script src="./history.js" defer></script></body></html>
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>في مثل هذا اليوم | ريال مدريد 360</title>
+  <link rel="stylesheet" href="./app.css">
+  <link rel="stylesheet" href="./history.css">
+</head>
+<body class="archive">
+  <header><a href="./">العودة إلى ريال مدريد 360</a></header>
+  <main>
+    <h1>في مثل هذا اليوم</h1>
+    <p class="archive-intro">نتائج الفريق الأول لريال مدريد منذ 1902، مرتبة حسب اليوم والشهر.</p>
+
+    <fieldset id="calendar" disabled>
+      <legend>اختر يومًا من السنة</legend>
+      <label>الشهر <select id="month"></select></label>
+      <label>اليوم <select id="day"></select></label>
+      <button id="today" type="button">اليوم</button>
+      <button id="next" type="button" disabled>تاريخ المباراة المقبلة</button>
+    </fieldset>
+    <p id="fixture" role="status"></p>
+
+    <fieldset id="category" disabled>
+      <legend>نوع المباريات</legend>
+      <label><input type="radio" name="category" value="official" checked> الرسمية</label>
+      <label><input type="radio" name="category" value="friendly"> الودية</label>
+      <label><input type="radio" name="category" value="historical"> مسابقات تاريخية أخرى</label>
+    </fieldset>
+
+    <section aria-labelledby="selected-date">
+      <h2 id="selected-date" aria-live="polite"></h2>
+      <dl id="stats"></dl>
+      <div id="rows" aria-busy="true">جارٍ تحميل الأرشيف…</div>
+    </section>
+    <details id="coverage" hidden>
+      <summary>التغطية والمصادر وطريقة الحساب</summary>
+      <p id="coverage-counts"></p>
+      <p>نعتمد تاريخ المباراة في مكان إقامتها. يُعرض موعد المباراة المقبلة بتوقيت السعودية. تدخل أهداف الوقت الإضافي ضمن النتيجة، وتُسجَّل المباراة المتعادلة التي حسمها الترجيح ضمن التعادلات.</p>
+      <ul id="coverage-notes"></ul>
+      <p id="coverage-links"></p>
+      <p><a href="./feed/history.json" download>تنزيل قاعدة البيانات بصيغة JSON</a></p>
+    </details>
+  </main>
+  <script src="./assets/00-teams.js" defer></script>
+  <script src="./history.js" type="module"></script>
+</body>
+</html>

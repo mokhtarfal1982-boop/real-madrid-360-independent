@@ -1,0 +1,640 @@
+{
+  "add": [
+    [
+      "1902-05-13",
+      "Barcelona",
+      "Real Madrid",
+      [
+        3,
+        1
+      ],
+      "coronation",
+      [
+        [
+          "rfef-coronation"
+        ],
+        [
+          "rsssf-coronation"
+        ]
+      ]
+    ],
+    [
+      "1902-05-16",
+      "Real Madrid",
+      "Espanyol",
+      [
+        3,
+        2
+      ],
+      "gran-pena",
+      [
+        [
+          "rfef-coronation"
+        ],
+        [
+          "rsssf-coronation"
+        ]
+      ]
+    ],
+    [
+      "1945-09-16",
+      "Real Madrid",
+      "Atlético de Madrid",
+      [
+        2,
+        1
+      ],
+      "jose-del-valle",
+      [
+        [
+          "leyenda",
+          1946
+        ],
+        [
+          "source",
+          "https://es.wikipedia.org/wiki/Copa_Federaci%C3%B3n_Centro#Copa_Jos%C3%A9_Luis_del_Valle_de_1944-45"
+        ]
+      ]
+    ],
+    [
+      "2026-07-24",
+      "Real Madrid",
+      "Alcorcón",
+      [
+        1,
+        0
+      ],
+      "friendly",
+      [
+        [
+          "as-preseason"
+        ]
+      ]
+    ],
+    [
+      "2026-07-28",
+      "Real Madrid",
+      "Leganés",
+      [
+        4,
+        1
+      ],
+      "friendly",
+      [
+        [
+          "as-preseason"
+        ]
+      ]
+    ],
+    [
+      "2026-08-01",
+      "Real Madrid",
+      "Fiorentina",
+      [
+        2,
+        2
+      ],
+      "friendly",
+      [
+        [
+          "as-preseason"
+        ]
+      ]
+    ],
+    [
+      "2026-08-08",
+      "Ferencváros",
+      "Real Madrid",
+      [
+        1,
+        2
+      ],
+      "friendly",
+      [
+        [
+          "club",
+          "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/ferencvaros-real-madrid-08-08-2026"
+        ],
+        [
+          "as-preseason"
+        ]
+      ]
+    ],
+    [
+      "2026-08-12",
+      "Deportivo de La Coruña",
+      "Real Madrid",
+      [
+        0,
+        1
+      ],
+      "friendly",
+      [
+        [
+          "as-preseason"
+        ]
+      ]
+    ],
+    [
+      "2026-08-16",
+      "FC Schalke 04",
+      "Real Madrid",
+      [
+        0,
+        3
+      ],
+      "friendly",
+      [
+        [
+          "as-preseason"
+        ]
+      ]
+    ],
+    [
+      "1903-11-29",
+      "Moderno FC",
+      "Real Madrid",
+      [
+        1,
+        4
+      ],
+      "regional",
+      [
+        [
+          "leyenda",
+          1904
+        ],
+        [
+          "early-es"
+        ]
+      ],
+      {
+        "note": "تذكر الروايات التاريخية أن مدريد تنازل عن نقاط المباراة."
+      }
+    ]
+  ],
+  "correct": [
+    {
+      "match": [
+        "1908-04-12",
+        "official",
+        "Vigo Sporting"
+      ],
+      "sources": [
+        [
+          "club",
+          "https://www.realmadrid.com/es-ES/noticias/club/actualidad/se-cumplen-118-anos-de-la-cuarta-copa-de-espana-12-04-2026"
+        ],
+        [
+          "rsssf-cup-finals"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1927-10-12",
+        "historical",
+        "Real Unión"
+      ],
+      "sources": [
+        [
+          "source",
+          "https://rfef.es/es/noticias/historia-de-la-liga-espanola-los-primeros-anos-1929-1936"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "2000-11-28",
+        "official",
+        "Boca Juniors"
+      ],
+      "sources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablest/toyota00.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1957-11-28",
+        "official",
+        "Royal Antwerp"
+      ],
+      "sources": [
+        [
+          "rsssf-international"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1984-11-28",
+        "official",
+        "RSC Anderlecht"
+      ],
+      "sources": [
+        [
+          "uefa-europa",
+          "67416--anderlecht-vs-real-madrid"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "2014-07-27",
+        "friendly",
+        "Inter"
+      ],
+      "date": "2014-07-26",
+      "sources": [
+        [
+          "season",
+          "2014%E2%80%9315_Real_Madrid_CF_season#Pre-season_and_friendlies"
+        ]
+      ],
+      "details": {
+        "shootout": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "match": [
+        "2025-06-27",
+        "official",
+        "Red Bull Salzburg"
+      ],
+      "date": "2025-06-26",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.fifa.com/en/articles/fc-salzburg-real-madrid-highlights-match-report"
+        ]
+      ],
+      "details": {
+        "note": "أقيمت في فيلادلفيا في 26 يونيو بالتوقيت المحلي."
+      }
+    },
+    {
+      "match": [
+        "2020-01-12",
+        "official",
+        "Atlético de Madrid"
+      ],
+      "sources": [
+        [
+          "club",
+          "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/undecima-supercopa-de-espana"
+        ]
+      ],
+      "details": {
+        "shootout": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "match": [
+        "1926-10-24",
+        "official",
+        "Racing de Madrid"
+      ],
+      "score": [
+        6,
+        1
+      ],
+      "replaceSources": [
+        [
+          "bdf-regional",
+          "partido.html?id=556&l=Real+Madrid&v=Racing+de+Madrid&d=24%2F10%2F1926"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "2004-12-12",
+        "official",
+        "Real Sociedad"
+      ],
+      "sources": [
+        [
+          "source",
+          "https://www.uefa.com/news-media/news/01a5-0e6c873236a3-59462620b473-1000--madrid-make-most-of-second-chance/"
+        ]
+      ],
+      "details": {
+        "note": "بدأت المباراة في 12 ديسمبر، واستُكملت في 5 يناير 2005."
+      }
+    },
+    {
+      "match": [
+        "1998-11-05",
+        "official",
+        "Sturm Graz"
+      ],
+      "sources": [
+        [
+          "uefa",
+          "55753--sturm-graz-vs-real-madrid"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1927-07-16",
+        "friendly",
+        "Boca Juniors"
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesm/madrid-trip27.html"
+        ],
+        [
+          "source",
+          "https://historiadeboca.com.ar/enfrentamientos-clubes-pais-espana/108/1905/2025/1/1/0/1/0.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1913-01-25",
+        "friendly",
+        "Sporting CP"
+      ],
+      "sources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesp/port-club-int-matches.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1977-08-05",
+        "friendly",
+        "Dukla Praha"
+      ],
+      "score": [
+        2,
+        2
+      ],
+      "replaceSources": [
+        [
+          "rsssf-teresa"
+        ]
+      ],
+      "details": {
+        "shootout": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "match": [
+        "2024-04-17",
+        "official",
+        "Manchester City"
+      ],
+      "details": {
+        "shootout": [
+          4,
+          3
+        ]
+      },
+      "sources": [
+        [
+          "club",
+          "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-manchester-city-real-madrid-17-04-2024"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1924-06-07",
+        "friendly",
+        "Dundee United"
+      ],
+      "opponent": "Dundee FC",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesb/brit-ier-tours-prewwii.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1924-06-08",
+        "friendly",
+        "Dundee United"
+      ],
+      "opponent": "Dundee FC",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesb/brit-ier-tours-prewwii.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1963-07-20",
+        "friendly",
+        "FC Porto"
+      ],
+      "date": "1963-08-20",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesp/peq-copamundo63.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1963-07-23",
+        "friendly",
+        "São Paulo"
+      ],
+      "date": "1963-08-23",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesp/peq-copamundo63.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1963-07-25",
+        "friendly",
+        "FC Porto"
+      ],
+      "date": "1963-08-25",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesp/peq-copamundo63.html"
+        ]
+      ]
+    },
+    {
+      "match": [
+        "1963-07-28",
+        "friendly",
+        "São Paulo"
+      ],
+      "date": "1963-08-28",
+      "replaceSources": [
+        [
+          "source",
+          "https://www.rsssf.org/tablesp/peq-copamundo63.html"
+        ]
+      ]
+    }
+  ],
+  "opponents": {
+    "AD Ferroviaria": "فيروفياريا",
+    "AEK": "أيك أثينا",
+    "AEK Atenas": "أيك أثينا",
+    "Al Ahly": "الأهلي المصري",
+    "Al-Ain": "العين",
+    "Al-Hilal": "الهلال",
+    "Al-Nassr": "النصر",
+    "Albacete": "ألباسيتي",
+    "Alavés": "ديبورتيفو ألافيس",
+    "Alcorcón": "ألكوركون",
+    "Alcoyano": "ألكويانو",
+    "Al-Jazira": "الجزيرة",
+    "Almería": "ألميريا",
+    "Arenas de Getxo": "أريناس غيتشو",
+    "Arsenal": "آرسنال",
+    "AS Roma": "روما",
+    "Athletic Club": "أتلتيك بلباو",
+    "Atlético de Madrid": "أتلتيكو مدريد",
+    "Barcelona": "برشلونة",
+    "Bayern München": "بايرن ميونخ",
+    "Betis": "ريال بيتيس",
+    "Boca Juniors": "بوكا جونيورز",
+    "Borussia Dortmund": "بوروسيا دورتموند",
+    "Braga": "براغا",
+    "Cádiz": "قادش",
+    "Cartagena": "قرطاجنة",
+    "Castellón": "كاستيون",
+    "CE Europa": "يوروبا",
+    "Celta de Vigo": "سيلتا فيغو",
+    "Chelsea": "تشيلسي",
+    "Club América": "كلوب أمريكا",
+    "Club Espanyol de Football de Barcelona": "إسبانيول",
+    "Club Español de Madrid": "إسبانيول مدريد",
+    "Club Retiro": "ريتيرو",
+    "Club Vizcaya": "بيزكايا",
+    "Coalición Matritense": "ائتلاف مدريد",
+    "Corinthians": "كورينثيانز",
+    "Córdoba": "قرطبة",
+    "Cruz Azul": "كروز أزول",
+    "Deportivo de La Coruña": "ديبورتيفو لاكورونيا",
+    "Eibar": "إيبار",
+    "Elche": "إلتشي",
+    "Espanyol": "إسبانيول",
+    "Excelsior": "إكسلسيور",
+    "FC Porto": "بورتو",
+    "FC Schalke 04": "شالكه 04",
+    "Ferencváros": "فيرينتسفاروش",
+    "Fiorentina": "فيورنتينا",
+    "Fuenlabrada": "فوينلابرادا",
+    "Galatasaray": "غلطة سراي",
+    "Getafe": "خيتافي",
+    "Gimnástica Española": "خيمناستيكا الإسباني",
+    "Gimnástico de Tarragona": "خيمناستيك تاراغونا",
+    "Girona": "جيرونا",
+    "Grêmio": "غريميو",
+    "Granada": "غرناطة",
+    "Hamilton": "هاميلتون",
+    "Hércules": "هيركوليس",
+    "Hispania": "هيسبانيا",
+    "Huesca": "هويسكا",
+    "Iberia FC": "إيبيريا",
+    "Iberia SC": "إيبيريا سرقسطة",
+    "Inter": "إنتر ميلان",
+    "Internacional de Madrid (1902)": "إنترناسيونال مدريد",
+    "Juventus": "يوفنتوس",
+    "Kashima Antlers": "كاشيما أنتلرز",
+    "Las Palmas": "لاس بالماس",
+    "LASK": "لاسك لينز",
+    "Lanzarote": "لانزاروتي",
+    "Leganés": "ليغانيس",
+    "Levante": "ليفانتي",
+    "Liverpool": "ليفربول",
+    "Málaga": "ملقة",
+    "Mallorca": "ريال مايوركا",
+    "Manchester City": "مانشستر سيتي",
+    "Manchester United": "مانشستر يونايتد",
+    "Milan": "ميلان",
+    "Moncloa FC": "مونكلوا",
+    "Moderno FC": "موديرنو",
+    "Murcia": "ريال مورسيا",
+    "Nacional de Madrid": "ناسيونال مدريد",
+    "Napoli": "نابولي",
+    "New Foot-Ball Club": "نيو فوتبول كلوب",
+    "Osasuna": "أوساسونا",
+    "Os Belenenses": "بيلينينسش",
+    "Pachuca": "باتشوكا",
+    "PSG": "باريس سان جيرمان",
+    "PSV": "بي إس في آيندهوفن",
+    "Racing de Madrid": "راسينغ مدريد",
+    "Racing de Santander": "راسينغ سانتاندير",
+    "Rayo Vallecano": "رايو فاييكانو",
+    "RB Leipzig": "لايبزيغ",
+    "Recreativo de Huelva": "ريكرياتيفو هويلفا",
+    "Red Bull Salzburg": "ريد بول سالزبورغ",
+    "Real Oviedo": "ريال أوفييدو",
+    "Real Sociedad": "ريال سوسيداد",
+    "Real Unión": "ريال أونيون",
+    "Real Valladolid": "ريال بلد الوليد",
+    "Real Zaragoza": "ريال سرقسطة",
+    "RSC Anderlecht": "أندرلخت",
+    "Royal Antwerp": "رويال أنتويرب",
+    "Sabadell": "ساباديل",
+    "Salamanca": "سالامانكا",
+    "San Lorenzo": "سان لورينزو",
+    "San Sebastián Recreación": "سان سيباستيان ريكرياثيون",
+    "Sevilla": "إشبيلية",
+    "Shakhtar Donetsk": "شاختار دونيتسك",
+    "SL Benfica": "بنفيكا",
+    "Sporting de Gijón": "سبورتينغ خيخون",
+    "Stade de Reims": "ستاد ريمس",
+    "Tottenham Hotspur": "توتنهام هوتسبير",
+    "UD Salamanca": "سالامانكا",
+    "Unión Sporting": "أونيون سبورتينغ",
+    "Valencia": "فالنسيا",
+    "Vigo Sporting": "فيغو سبورتينغ",
+    "Villarreal": "فياريال",
+    "Werder Bremen": "فيردر بريمن",
+    "WSG Tirol": "تيرول",
+    "Xerez": "خيريث",
+    "Dundee FC": "دندي",
+    "Dukla Praha": "دوكلا براغ",
+    "Botafogo": "بوتافوغو",
+    "São Paulo": "ساو باولو",
+    "Sporting CP": "سبورتينغ لشبونة",
+    "Real Murcia": "ريال مورسيا",
+    "Sturm Graz": "شتورم غراتس",
+    "Castilla FC": "قشتالة",
+    "CD Logroño": "لوغرونيو",
+    "AD Tranviaria": "ترانفياريا",
+    "Imperio FC": "إمبيريو",
+    "Peñarol": "بينيـارول",
+    "Millonarios": "مييوناريوس"
+  }
+}

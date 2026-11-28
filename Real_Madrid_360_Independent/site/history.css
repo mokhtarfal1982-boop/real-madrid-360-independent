@@ -1,1 +1,28 @@
-body{background:#07101f;color:#f2f5fa;font:17px/1.8 system-ui;max-width:900px;margin:auto;padding:20px}a{color:#a9d4ff}input,button{font:inherit;background:#13243b;color:white;border:1px solid #67809a;border-radius:8px;padding:8px}#stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:10px;margin:20px 0}article{background:#13243b;border:1px solid #34516c;border-radius:12px;padding:14px;margin:10px 0}#stats article{margin:0;text-align:center}strong{display:block;font-size:1.6em}
+.archive { max-width: 900px; margin: auto; padding: 20px 20px 36px; font-size: 17px; }
+.archive header { margin-bottom: 20px; }
+.archive a { color: #a9d4ff; }
+.archive h1 { font-size: clamp(28px, 5vw, 38px); }
+.archive h2 { font-size: 23px; }
+.archive-intro { color: var(--steel-2); margin: 8px 0 20px; }
+.archive fieldset { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 14px 0; padding: 10px 12px 12px; min-width: 0; border: 1px solid #34516c; border-radius: 12px; }
+.archive legend { padding-inline: 6px; color: var(--steel-2); font-size: 15px; }
+.archive label { display: inline-flex; gap: 6px; align-items: center; }
+.archive select, .archive button { font: inherit; color: inherit; background: #13243b; border: 1px solid #67809a; border-radius: 8px; min-height: 42px; padding: 5px 10px; }
+.archive button:enabled, .archive summary { cursor: pointer; }
+.archive button:disabled { opacity: .55; }
+#fixture { color: var(--steel-2); }
+#stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(93px, 1fr)); gap: 8px; margin: 12px 0 18px; }
+#stats > div, .archive-match { background: #13243b; border: 1px solid #34516c; border-radius: 12px; padding: 10px 12px; }
+#stats > div { display: flex; flex-direction: column-reverse; align-items: center; text-align: center; }
+#stats dt, .archive-match-meta, .archive-sources { font-size: 14px; color: var(--steel-2); }
+#stats dd { margin: 0; font-size: 25px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.archive-match { margin-bottom: 8px; }
+.archive-match h3 { font-size: 18px; margin: 4px 0; }
+.archive-match [data-result="win"] { color: var(--win); }
+.archive-match [data-result="loss"] { color: var(--loss); }
+.archive-sources, #coverage-links { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.archive-sources a { overflow-wrap: anywhere; }
+.archive-match-note, #coverage { color: var(--steel-2); font-size: 15px; }
+#coverage { margin-top: 20px; border-top: 1px solid #34516c; padding-top: 12px; }
+#coverage p, #coverage ul { margin-block: 6px; }
+#coverage ul { list-style: disc; padding-inline-start: 22px; }

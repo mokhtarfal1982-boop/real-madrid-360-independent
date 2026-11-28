@@ -5,7 +5,8 @@
   "description": "Independent static Arabic Real Madrid news platform; local first-party JSON feed",
   "scripts": {
     "data": "python3 build/compile_data.py dist",
-    "build": "node build/build-static.js && npm run data && python3 build/postprocess_current.py dist && python3 build/validate_current.py dist",
+    "build": "node build/build-static.js && npm run data && python3 build/postprocess_current.py dist && python3 build/validate_current.py dist && node build/test-history.mjs dist",
+    "test:history": "node build/test-history.mjs",
     "preview": "python3 -m http.server 3000 --directory dist"
   },
   "engines": {
